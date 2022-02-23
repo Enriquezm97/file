@@ -1,0 +1,3132 @@
+Fecha,Tipo,cantidad
+2018-01-01 00:00:00,PATRIMONIO,236102191.8
+,RESULTEX,25714597.26
+,ACTIVO_T,459466149.4
+,PASIVO_T,197649360.4
+,PATRIMONIO_T,261816789.1
+,Activo Biológico,92415736.3
+,Capital Social,69449428.39
+,Cuentas por Cobrar Comerciales,89756769.54
+,Cuentas por Cobrar a Relacionadas,781599.38
+,Cuentas por Pagar Comerciales,24989264.65
+,Cuentas por Pagar a Relacionadas,112561.05
+,Efectivo y Equivalente de Efectivo,18329754.25
+,Existencias,9386873.2
+,Gastos Pagados por Anticipado y Otros Activos,6000321.83
+,Impuestos por Recuperar,0
+,"Inmueble, Maquinaria y Equipo, Neto",132717328.5
+,Instrumento Financiero Derivados,1437490.68
+,Instrumentos Financieros Derivados,0
+,Inversiónes Mobiliarias,87952153.44
+,Obligaciones Financieras,110972624.7
+,Otras Cuenta por Cobrar Largo Plazo,309479.4
+,Otras Cuentas por Pagar,-6226897.06
+,Otras Cuentas por Pagar Largo Plazo,4400979.86
+,Parte Corriente de Activo Biológico,21816133.62
+,Pasivo por Impuesto a la Renta Diferido,11625472.94
+,Porcion Corriente de Obligaciones Financieras,50018897.98
+,Reserva Legal,32752998.29
+,Resultados Acumulados,133899765.1
+,Sobregiros Bancarios,318965.61
+,ACTIVO_CORR,146071451.8
+,ACTIVO_NCORR,313394697.6
+,PASIVO_CORR,70650282.91
+,PASIVO_NCORR,126999077.5
+,CxC,90538368.92
+,INVENTARIOS,31203006.82
+,CxP,18874928.64
+,CAPEX,75421168.91
+,ACT_FIJ,313085218.2
+,CASH,18329754.25
+,DEUDA_TOT,161310488.3
+,Cambios en el Valor Razonable de Activos Biológicos,0
+,Costo de Venta - NIC 41,-418863.55
+,Costo de Ventas,-22798033.79
+,Depr. De Gastos de Administración,-43290.21
+,Depr. De Gastos de Venta,-2121.57
+,"Diferencia de Cambio, Neta",1301804.9
+,Gastos Financieros,-21212.77
+,Gastos de Administración,-1068302.07
+,Gastos de Venta,-3532570.79
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,0
+,Ingresos Financieros,567.07
+,"Instrumentos Financieros, Netos",127943.02
+,Otros Gastos,-116268.78
+,Otros Gastos - NIC 41,-251380.31
+,Otros Ingresos,255457.52
+,Restitución de Derechos Arancelarios,1541530.34
+,Ventas,50739338.25
+,uti_bruta,29063971.25
+,EBIT,24305495.04
+,EBITDA,24350906.82
+,EBT,25714597.26
+,uti_neta,25714597.26
+,costo_venta,-23216897.34
+,EBDA,25760009.04
+,ratio_liquidez,2.067528194
+,ratio_rapido,1.625873815
+,ratio_cash,0.259443466
+,deuda_activos,0.351082421
+,deuda_patrimonio,0.616119726
+,apalancamiento,1.754914767
+,cobertura_int,
+,DEUDA_ESTR,51577908.56
+,CAP_EMPL,388815866.5
+,mg_ebitda,
+,carga_impositiva,
+,carga_intereses,
+,mg_bruto,
+,mg_neto,
+,mg_operativo,
+,ROA,
+,ROE,
+,ROCE,
+,rotacion_trabajo,
+,rotacion_fijos,
+,rotacion_activos,
+,rotacion_cxc,
+,rotacion_inventarios,
+,rotacion_cxp,
+,dias_inventario,
+,dias_cxc,
+,dias_cxp,
+,ciclo_operativo,
+,ciclo_caja,
+,anos_d_estr,
+,Generacion_T_CAJA,
+,DEUDA_ESTRUCTURAL,
+,deuda_ebitda,
+,ventas12M,
+,utinet12M,
+,EBITDA12M,
+2018-02-01 00:00:00,PATRIMONIO,236102191.8
+,RESULTEX,21832408.14
+,ACTIVO_T,435731936.9
+,PASIVO_T,177797336.9
+,PATRIMONIO_T,257934599.9
+,Activo Biológico,92345507.02
+,Capital Social,69449428.39
+,Cuentas por Cobrar Comerciales,60948934.32
+,Cuentas por Cobrar a Relacionadas,1164351.35
+,Cuentas por Pagar Comerciales,17481503.41
+,Cuentas por Pagar a Relacionadas,113699.51
+,Efectivo y Equivalente de Efectivo,15721074.71
+,Existencias,8592858.24
+,Gastos Pagados por Anticipado y Otros Activos,9877818.93
+,Impuestos por Recuperar,0
+,"Inmueble, Maquinaria y Equipo, Neto",132476983.2
+,Instrumento Financiero Derivados,1551570.25
+,Instrumentos Financieros Derivados,0
+,Inversiónes Mobiliarias,89718817.53
+,Obligaciones Financieras,112110982.3
+,Otras Cuenta por Cobrar Largo Plazo,309829.49
+,Otras Cuentas por Pagar,-6976572.07
+,Otras Cuentas por Pagar Largo Plazo,7391735.24
+,Parte Corriente de Activo Biológico,24575762.11
+,Pasivo por Impuesto a la Renta Diferido,11625472.94
+,Porcion Corriente de Obligaciones Financieras,34264774.54
+,Reserva Legal,32752998.29
+,Resultados Acumulados,133899765.1
+,Sobregiros Bancarios,234170.78
+,ACTIVO_CORR,120880799.7
+,ACTIVO_NCORR,314851137.2
+,PASIVO_CORR,46669146.42
+,PASIVO_NCORR,131128190.5
+,CxC,62113285.67
+,INVENTARIOS,33168620.35
+,CxP,10618630.85
+,CAPEX,74211653.24
+,ACT_FIJ,314541307.7
+,CASH,15721074.71
+,DEUDA_TOT,146609927.7
+,Cambios en el Valor Razonable de Activos Biológicos,0
+,Costo de Venta - NIC 41,-837727.1
+,Costo de Ventas,-24776385.88
+,Depr. De Gastos de Administración,-85857.3
+,Depr. De Gastos de Venta,-4243.14
+,"Diferencia de Cambio, Neta",487235.64
+,Gastos Financieros,-90081.7
+,Gastos de Administración,-2154203.65
+,Gastos de Venta,-4323182.44
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,0
+,Ingresos Financieros,1335.39
+,"Instrumentos Financieros, Netos",28609.24
+,Otros Gastos,-116373.57
+,Otros Gastos - NIC 41,-251380.31
+,Otros Ingresos,604390.67
+,Restitución de Derechos Arancelarios,1572929.48
+,Ventas,51777342.81
+,uti_bruta,27736159.31
+,EBIT,21405309.57
+,EBITDA,21495410.01
+,EBT,21832408.14
+,uti_neta,21832408.14
+,costo_venta,-25614112.98
+,EBDA,21922508.58
+,ratio_liquidez,2.590165215
+,ratio_rapido,1.87944683
+,ratio_cash,0.336862272
+,deuda_activos,0.336468171
+,deuda_patrimonio,0.568399616
+,apalancamiento,1.689311698
+,cobertura_int,
+,DEUDA_ESTR,56916537.27
+,CAP_EMPL,389062790.5
+,mg_ebitda,
+,carga_impositiva,
+,carga_intereses,
+,mg_bruto,
+,mg_neto,
+,mg_operativo,
+,ROA,
+,ROE,
+,ROCE,
+,rotacion_trabajo,
+,rotacion_fijos,
+,rotacion_activos,
+,rotacion_cxc,
+,rotacion_inventarios,
+,rotacion_cxp,
+,dias_inventario,
+,dias_cxc,
+,dias_cxp,
+,ciclo_operativo,
+,ciclo_caja,
+,anos_d_estr,
+,Generacion_T_CAJA,
+,DEUDA_ESTRUCTURAL,
+,deuda_ebitda,
+,ventas12M,
+,utinet12M,
+,EBITDA12M,
+2018-03-01 00:00:00,PATRIMONIO,236102191.8
+,RESULTEX,4006410.6
+,ACTIVO_T,397918660.7
+,PASIVO_T,157810058.3
+,PATRIMONIO_T,240108602.4
+,Activo Biológico,92386583.78
+,Capital Social,69449428.39
+,Cuentas por Cobrar Comerciales,24208442.71
+,Cuentas por Cobrar a Relacionadas,1144595.38
+,Cuentas por Pagar Comerciales,12696379.94
+,Cuentas por Pagar a Relacionadas,116652.94
+,Efectivo y Equivalente de Efectivo,10494015.79
+,Existencias,8791600.86
+,Gastos Pagados por Anticipado y Otros Activos,10297013.2
+,Impuestos por Recuperar,0
+,"Inmueble, Maquinaria y Equipo, Neto",132311864.5
+,Instrumento Financiero Derivados,1454761.73
+,Instrumentos Financieros Derivados,0
+,Inversiónes Mobiliarias,89718817.53
+,Obligaciones Financieras,111386572.9
+,Otras Cuenta por Cobrar Largo Plazo,307722.67
+,Otras Cuentas por Pagar,-7233474.86
+,Otras Cuentas por Pagar Largo Plazo,7551469.91
+,Parte Corriente de Activo Biológico,28258004.28
+,Pasivo por Impuesto a la Renta Diferido,11625472.94
+,Porcion Corriente de Obligaciones Financieras,20041817.51
+,Reserva Legal,34978930.77
+,Resultados Acumulados,131673832.6
+,Sobregiros Bancarios,170405.27
+,ACTIVO_CORR,83193672.22
+,ACTIVO_NCORR,314724988.5
+,PASIVO_CORR,27246542.53
+,PASIVO_NCORR,130563515.8
+,CxC,25353038.09
+,INVENTARIOS,37049605.14
+,CxP,5579558.02
+,CAPEX,55947129.69
+,ACT_FIJ,314417265.8
+,CASH,10494015.79
+,DEUDA_TOT,131598795.7
+,Cambios en el Valor Razonable de Activos Biológicos,0
+,Costo de Venta - NIC 41,-1256590.65
+,Costo de Ventas,-25193644.01
+,Depr. De Gastos de Administración,-128467.91
+,Depr. De Gastos de Venta,-6377.37
+,"Diferencia de Cambio, Neta",1241191.68
+,Gastos Financieros,-1697639.1
+,Gastos de Administración,-3545179.12
+,Gastos de Venta,-4618245.19
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,0
+,Ingresos Financieros,1415.63
+,"Instrumentos Financieros, Netos",115392.23
+,Otros Gastos,-116879.35
+,Otros Gastos - NIC 41,-251380.31
+,Otros Ingresos,743884.46
+,Restitución de Derechos Arancelarios,-1171984.52
+,Ventas,39890914.13
+,uti_bruta,12268694.95
+,EBIT,4346050.16
+,EBITDA,4480895.44
+,EBT,4006410.6
+,uti_neta,4006410.6
+,costo_venta,-26450234.66
+,EBDA,4141255.88
+,ratio_liquidez,3.053366207
+,ratio_rapido,1.69357514
+,ratio_cash,0.385150365
+,deuda_activos,0.330717829
+,deuda_patrimonio,0.548080304
+,apalancamiento,1.6572445
+,cobertura_int,
+,DEUDA_ESTR,74616386.06
+,CAP_EMPL,370672118.2
+,mg_ebitda,
+,carga_impositiva,
+,carga_intereses,
+,mg_bruto,
+,mg_neto,
+,mg_operativo,
+,ROA,
+,ROE,
+,ROCE,
+,rotacion_trabajo,
+,rotacion_fijos,
+,rotacion_activos,
+,rotacion_cxc,
+,rotacion_inventarios,
+,rotacion_cxp,
+,dias_inventario,
+,dias_cxc,
+,dias_cxp,
+,ciclo_operativo,
+,ciclo_caja,
+,anos_d_estr,
+,Generacion_T_CAJA,
+,DEUDA_ESTRUCTURAL,
+,deuda_ebitda,
+,ventas12M,
+,utinet12M,
+,EBITDA12M,
+2018-04-01 00:00:00,PATRIMONIO,236102191.8
+,RESULTEX,2104242.02
+,ACTIVO_T,380879279.5
+,PASIVO_T,142672845.7
+,PATRIMONIO_T,238206433.8
+,Activo Biológico,92290341.8
+,Capital Social,69449428.39
+,Cuentas por Cobrar Comerciales,7076400.68
+,Cuentas por Cobrar a Relacionadas,1168647.27
+,Cuentas por Pagar Comerciales,6986041.43
+,Cuentas por Pagar a Relacionadas,117081.92
+,Efectivo y Equivalente de Efectivo,6897853.65
+,Existencias,10032283.42
+,Gastos Pagados por Anticipado y Otros Activos,10187523.72
+,Impuestos por Recuperar,0
+,"Inmueble, Maquinaria y Equipo, Neto",132063142.1
+,Instrumento Financiero Derivados,1496542.02
+,Instrumentos Financieros Derivados,0
+,Inversiónes Mobiliarias,89718817.53
+,Obligaciones Financieras,111800521.2
+,Otras Cuenta por Cobrar Largo Plazo,307242.47
+,Otras Cuentas por Pagar,-7741783.87
+,Otras Cuentas por Pagar Largo Plazo,7540818.67
+,Parte Corriente de Activo Biológico,31137026.79
+,Pasivo por Impuesto a la Renta Diferido,11625472.94
+,Porcion Corriente de Obligaciones Financieras,10623644.89
+,Reserva Legal,34978930.77
+,Resultados Acumulados,131673832.6
+,Sobregiros Bancarios,224506.5
+,ACTIVO_CORR,66499735.53
+,ACTIVO_NCORR,314379543.9
+,PASIVO_CORR,11706032.89
+,PASIVO_NCORR,130966812.8
+,CxC,8245047.95
+,INVENTARIOS,41169310.21
+,CxP,-638660.52
+,CAPEX,54793702.64
+,ACT_FIJ,314072301.5
+,CASH,6897853.65
+,DEUDA_TOT,122648672.5
+,Cambios en el Valor Razonable de Activos Biológicos,0
+,Costo de Venta - NIC 41,-1675454.2
+,Costo de Ventas,-25586646.98
+,Depr. De Gastos de Administración,-171380.14
+,Depr. De Gastos de Venta,-8531.65
+,"Diferencia de Cambio, Neta",766571.72
+,Gastos Financieros,-1842902.26
+,Gastos de Administración,-4430015.23
+,Gastos de Venta,-4773378.85
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,0
+,Ingresos Financieros,19259.63
+,"Instrumentos Financieros, Netos",79018.3
+,Otros Gastos,-117247.32
+,Otros Gastos - NIC 41,-251380.31
+,Otros Ingresos,803217.72
+,Restitución de Derechos Arancelarios,-1171984.52
+,Ventas,40465096.11
+,uti_bruta,12031010.41
+,EBIT,3082294.63
+,EBITDA,3262206.42
+,EBT,2104242.02
+,uti_neta,2104242.02
+,costo_venta,-27262101.18
+,EBDA,2284153.81
+,ratio_liquidez,5.680808875
+,ratio_rapido,2.163877853
+,ratio_cash,0.589256302
+,deuda_activos,0.322014557
+,deuda_patrimonio,0.514883963
+,apalancamiento,1.598946231
+,cobertura_int,
+,DEUDA_ESTR,76173110.12
+,CAP_EMPL,369173246.6
+,mg_ebitda,
+,carga_impositiva,
+,carga_intereses,
+,mg_bruto,
+,mg_neto,
+,mg_operativo,
+,ROA,
+,ROE,
+,ROCE,
+,rotacion_trabajo,
+,rotacion_fijos,
+,rotacion_activos,
+,rotacion_cxc,
+,rotacion_inventarios,
+,rotacion_cxp,
+,dias_inventario,
+,dias_cxc,
+,dias_cxp,
+,ciclo_operativo,
+,ciclo_caja,
+,anos_d_estr,
+,Generacion_T_CAJA,
+,DEUDA_ESTRUCTURAL,
+,deuda_ebitda,
+,ventas12M,
+,utinet12M,
+,EBITDA12M,
+2018-05-01 00:00:00,PATRIMONIO,226274191.8
+,RESULTEX,-775978.63
+,ACTIVO_T,389612988.2
+,PASIVO_T,164114775
+,PATRIMONIO_T,225498213.2
+,Activo Biológico,92487475.34
+,Capital Social,69449428.39
+,Cuentas por Cobrar Comerciales,5610094.5
+,Cuentas por Cobrar a Relacionadas,1336077.3
+,Cuentas por Pagar Comerciales,6430530.52
+,Cuentas por Pagar a Relacionadas,118255.34
+,Efectivo y Equivalente de Efectivo,12542469.27
+,Existencias,11157806.14
+,Gastos Pagados por Anticipado y Otros Activos,10094338.72
+,Impuestos por Recuperar,0
+,"Inmueble, Maquinaria y Equipo, Neto",131700864.5
+,Instrumento Financiero Derivados,1186527.19
+,Instrumentos Financieros Derivados,24405.74
+,Inversiónes Mobiliarias,89718817.53
+,Obligaciones Financieras,121089887.4
+,Otras Cuenta por Cobrar Largo Plazo,307509.88
+,Otras Cuentas por Pagar,-8085027.75
+,Otras Cuentas por Pagar Largo Plazo,16981522.34
+,Parte Corriente de Activo Biológico,34633129.26
+,Pasivo por Impuesto a la Renta Diferido,11625472.94
+,Porcion Corriente de Obligaciones Financieras,14632154.47
+,Reserva Legal,34978930.77
+,Resultados Acumulados,121845832.6
+,Sobregiros Bancarios,135452.49
+,ACTIVO_CORR,75398320.93
+,ACTIVO_NCORR,314214667.2
+,PASIVO_CORR,14417892.26
+,PASIVO_NCORR,149696882.7
+,CxC,6946171.8
+,INVENTARIOS,45790935.4
+,CxP,-1536241.89
+,CAPEX,60980428.67
+,ACT_FIJ,313907157.3
+,CASH,12542469.27
+,DEUDA_TOT,135857494.4
+,Cambios en el Valor Razonable de Activos Biológicos,0
+,Costo de Venta - NIC 41,-2094317.75
+,Costo de Ventas,-26243550.92
+,Depr. De Gastos de Administración,-215162.45
+,Depr. De Gastos de Venta,-10673.48
+,"Diferencia de Cambio, Neta",-454320.19
+,Gastos Financieros,-1895118.59
+,Gastos de Administración,-6043905.68
+,Gastos de Venta,-4941412.83
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,0
+,Ingresos Financieros,19515.24
+,"Instrumentos Financieros, Netos",427768.15
+,Otros Gastos,-119038.08
+,Otros Gastos - NIC 41,-251380.31
+,Otros Ingresos,1317002.1
+,Restitución de Derechos Arancelarios,-1171984.52
+,Ventas,40900600.68
+,uti_bruta,11390747.49
+,EBIT,1126176.76
+,EBITDA,1352012.69
+,EBT,-775978.63
+,uti_neta,-775978.63
+,costo_venta,-28337868.67
+,EBDA,-550142.7
+,ratio_liquidez,5.229496765
+,ratio_rapido,2.053516908
+,ratio_cash,0.869923914
+,deuda_activos,0.348698577
+,deuda_patrimonio,0.602477033
+,apalancamiento,1.727787474
+,cobertura_int,
+,DEUDA_ESTR,88716454.05
+,CAP_EMPL,375195095.9
+,mg_ebitda,
+,carga_impositiva,
+,carga_intereses,
+,mg_bruto,
+,mg_neto,
+,mg_operativo,
+,ROA,
+,ROE,
+,ROCE,
+,rotacion_trabajo,
+,rotacion_fijos,
+,rotacion_activos,
+,rotacion_cxc,
+,rotacion_inventarios,
+,rotacion_cxp,
+,dias_inventario,
+,dias_cxc,
+,dias_cxp,
+,ciclo_operativo,
+,ciclo_caja,
+,anos_d_estr,
+,Generacion_T_CAJA,
+,DEUDA_ESTRUCTURAL,
+,deuda_ebitda,
+,ventas12M,
+,utinet12M,
+,EBITDA12M,
+2018-06-01 00:00:00,PATRIMONIO,226274191.8
+,RESULTEX,-2902366.68
+,ACTIVO_T,394712507.7
+,PASIVO_T,171340682.6
+,PATRIMONIO_T,223371825.1
+,Activo Biológico,92192828.02
+,Capital Social,69449428.39
+,Cuentas por Cobrar Comerciales,4878698.31
+,Cuentas por Cobrar a Relacionadas,1425409.79
+,Cuentas por Pagar Comerciales,7680287.7
+,Cuentas por Pagar a Relacionadas,118324.63
+,Efectivo y Equivalente de Efectivo,12859346.18
+,Existencias,13101824.65
+,Gastos Pagados por Anticipado y Otros Activos,10452711.24
+,Impuestos por Recuperar,0
+,"Inmueble, Maquinaria y Equipo, Neto",132550265.1
+,Instrumento Financiero Derivados,1177359.74
+,Instrumentos Financieros Derivados,24398.28
+,Inversiónes Mobiliarias,89718817.53
+,Obligaciones Financieras,134258878.8
+,Otras Cuenta por Cobrar Largo Plazo,306379.25
+,Otras Cuentas por Pagar,-8491245.05
+,Otras Cuentas por Pagar Largo Plazo,17155907.14
+,Parte Corriente de Activo Biológico,37201829.37
+,Pasivo por Impuesto a la Renta Diferido,11625472.94
+,Porcion Corriente de Obligaciones Financieras,7405615.08
+,Reserva Legal,34978930.77
+,Resultados Acumulados,121845832.6
+,Sobregiros Bancarios,410081.62
+,ACTIVO_CORR,79944217.82
+,ACTIVO_NCORR,314768289.9
+,PASIVO_CORR,8300423.72
+,PASIVO_NCORR,163040258.9
+,CxC,6304108.1
+,INVENTARIOS,50303654.02
+,CxP,-692632.72
+,CAPEX,71643794.1
+,ACT_FIJ,314461910.7
+,CASH,12859346.18
+,DEUDA_TOT,142074575.5
+,Cambios en el Valor Razonable de Activos Biológicos,0
+,Costo de Venta - NIC 41,-2513181.3
+,Costo de Ventas,-27303821.46
+,Depr. De Gastos de Administración,-258828.5
+,Depr. De Gastos de Venta,-12792.24
+,"Diferencia de Cambio, Neta",-439867.65
+,Gastos Financieros,-1933068.33
+,Gastos de Administración,-7147369.84
+,Gastos de Venta,-5733045.1
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,0
+,Ingresos Financieros,21287.08
+,"Instrumentos Financieros, Netos",437660.86
+,Otros Gastos,-120207.44
+,Otros Gastos - NIC 41,-251380.31
+,Otros Ingresos,1588850.55
+,Restitución de Derechos Arancelarios,-1171984.52
+,Ventas,41935381.52
+,uti_bruta,10946394.24
+,EBIT,-988378.64
+,EBITDA,-716757.9
+,EBT,-2902366.68
+,uti_neta,-2902366.68
+,costo_venta,-29817002.76
+,EBDA,-2630745.94
+,ratio_liquidez,9.631341786
+,ratio_rapido,3.570969965
+,ratio_cash,1.549239727
+,deuda_activos,0.359944447
+,deuda_patrimonio,0.636045192
+,apalancamiento,1.767064882
+,cobertura_int,
+,DEUDA_ESTR,91396464.78
+,CAP_EMPL,386412084
+,mg_ebitda,
+,carga_impositiva,
+,carga_intereses,
+,mg_bruto,
+,mg_neto,
+,mg_operativo,
+,ROA,
+,ROE,
+,ROCE,
+,rotacion_trabajo,
+,rotacion_fijos,
+,rotacion_activos,
+,rotacion_cxc,
+,rotacion_inventarios,
+,rotacion_cxp,
+,dias_inventario,
+,dias_cxc,
+,dias_cxp,
+,ciclo_operativo,
+,ciclo_caja,
+,anos_d_estr,
+,Generacion_T_CAJA,
+,DEUDA_ESTRUCTURAL,
+,deuda_ebitda,
+,ventas12M,
+,utinet12M,
+,EBITDA12M,
+2018-07-01 00:00:00,PATRIMONIO,226274191.8
+,RESULTEX,-4283574.07
+,ACTIVO_T,399116399.2
+,PASIVO_T,177125781.5
+,PATRIMONIO_T,221990617.7
+,Activo Biológico,91955941.7
+,Capital Social,69449428.39
+,Cuentas por Cobrar Comerciales,8902435.51
+,Cuentas por Cobrar a Relacionadas,2044439.05
+,Cuentas por Pagar Comerciales,9918584.46
+,Cuentas por Pagar a Relacionadas,118254.02
+,Efectivo y Equivalente de Efectivo,9669487.26
+,Existencias,14576342.21
+,Gastos Pagados por Anticipado y Otros Activos,10206380.58
+,Impuestos por Recuperar,0
+,"Inmueble, Maquinaria y Equipo, Neto",133378025.7
+,Instrumento Financiero Derivados,1174305.45
+,Instrumentos Financieros Derivados,24390.82
+,Inversiónes Mobiliarias,89718817.53
+,Obligaciones Financieras,134896001.7
+,Otras Cuenta por Cobrar Largo Plazo,305249.29
+,Otras Cuentas por Pagar,-5052071.6
+,Otras Cuentas por Pagar Largo Plazo,16892723.19
+,Parte Corriente de Activo Biológico,38334889.54
+,Pasivo por Impuesto a la Renta Diferido,11625472.94
+,Porcion Corriente de Obligaciones Financieras,7401091.17
+,Reserva Legal,34978930.77
+,Resultados Acumulados,121845832.6
+,Sobregiros Bancarios,151420.14
+,ACTIVO_CORR,83758364.97
+,ACTIVO_NCORR,315358034.2
+,PASIVO_CORR,13711583.64
+,PASIVO_NCORR,163414197.8
+,CxC,10946874.56
+,INVENTARIOS,52911231.75
+,CxP,4984766.88
+,CAPEX,70046781.33
+,ACT_FIJ,315052784.9
+,CASH,9669487.26
+,DEUDA_TOT,142448513
+,Cambios en el Valor Razonable de Activos Biológicos,0
+,Costo de Venta - NIC 41,-2932044.85
+,Costo de Ventas,-31881644.51
+,Depr. De Gastos de Administración,-301848.53
+,Depr. De Gastos de Venta,-14985.7
+,"Diferencia de Cambio, Neta",-356368.38
+,Gastos Financieros,-1957892.13
+,Gastos de Administración,-8165724.77
+,Gastos de Venta,-6369484.9
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,0
+,Ingresos Financieros,21713.3
+,"Instrumentos Financieros, Netos",439995.93
+,Otros Gastos,-126719.92
+,Otros Gastos - NIC 41,-251380.31
+,Otros Ingresos,1714626.37
+,Restitución de Derechos Arancelarios,-1171984.52
+,Ventas,47070168.85
+,uti_bruta,11084494.97
+,EBIT,-2431022.79
+,EBITDA,-2114188.56
+,EBT,-4283574.07
+,uti_neta,-4283574.07
+,costo_venta,-34813689.36
+,EBDA,-3966739.84
+,ratio_liquidez,6.108584331
+,ratio_rapido,2.249713383
+,ratio_cash,0.705205723
+,deuda_activos,0.356909697
+,deuda_patrimonio,0.641687088
+,apalancamiento,1.797897602
+,cobertura_int,
+,DEUDA_ESTR,93367416.49
+,CAP_EMPL,385404815.6
+,mg_ebitda,
+,carga_impositiva,
+,carga_intereses,
+,mg_bruto,
+,mg_neto,
+,mg_operativo,
+,ROA,
+,ROE,
+,ROCE,
+,rotacion_trabajo,
+,rotacion_fijos,
+,rotacion_activos,
+,rotacion_cxc,
+,rotacion_inventarios,
+,rotacion_cxp,
+,dias_inventario,
+,dias_cxc,
+,dias_cxp,
+,ciclo_operativo,
+,ciclo_caja,
+,anos_d_estr,
+,Generacion_T_CAJA,
+,DEUDA_ESTRUCTURAL,
+,deuda_ebitda,
+,ventas12M,
+,utinet12M,
+,EBITDA12M,
+2018-08-01 00:00:00,PATRIMONIO,226274191.8
+,RESULTEX,958749.2
+,ACTIVO_T,405927687.4
+,PASIVO_T,178694746.4
+,PATRIMONIO_T,227232941
+,Activo Biológico,89980158.39
+,Capital Social,69449428.39
+,Cuentas por Cobrar Comerciales,19728171.84
+,Cuentas por Cobrar a Relacionadas,3313785.35
+,Cuentas por Pagar Comerciales,12010737.04
+,Cuentas por Pagar a Relacionadas,131220.94
+,Efectivo y Equivalente de Efectivo,2370803.54
+,Existencias,15842909.34
+,Gastos Pagados por Anticipado y Otros Activos,10091861.61
+,Impuestos por Recuperar,0
+,"Inmueble, Maquinaria y Equipo, Neto",133626330.1
+,Instrumento Financiero Derivados,1156349.84
+,Instrumentos Financieros Derivados,24577.4
+,Inversiónes Mobiliarias,89718817.53
+,Obligaciones Financieras,135798500.5
+,Otras Cuenta por Cobrar Largo Plazo,305187.37
+,Otras Cuentas por Pagar,-5706094.12
+,Otras Cuentas por Pagar Largo Plazo,16878008.19
+,Parte Corriente de Activo Biológico,40925084.92
+,Pasivo por Impuesto a la Renta Diferido,11625472.94
+,Porcion Corriente de Obligaciones Financieras,6716073.06
+,Reserva Legal,34978930.77
+,Resultados Acumulados,121845832.6
+,Sobregiros Bancarios,84478.02
+,ACTIVO_CORR,92297194
+,ACTIVO_NCORR,313630493.4
+,PASIVO_CORR,14392764.78
+,PASIVO_NCORR,164301981.6
+,CxC,23041957.19
+,INVENTARIOS,56767994.26
+,CxP,6435863.86
+,CAPEX,77904429.22
+,ACT_FIJ,313325306
+,CASH,2370803.54
+,DEUDA_TOT,142599051.6
+,Cambios en el Valor Razonable de Activos Biológicos,0
+,Costo de Venta - NIC 41,-3339240.7
+,Costo de Ventas,-37411236.68
+,Depr. De Gastos de Administración,-344886.51
+,Depr. De Gastos de Venta,-17180.95
+,"Diferencia de Cambio, Neta",-1298314.6
+,Gastos Financieros,-2013819.48
+,Gastos de Administración,-9508004.57
+,Gastos de Venta,-8144266.15
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,0
+,Ingresos Financieros,22107.11
+,"Instrumentos Financieros, Netos",467282.82
+,Otros Gastos,-697315.71
+,Otros Gastos - NIC 41,-1709844.03
+,Otros Ingresos,1758705.21
+,Restitución de Derechos Arancelarios,1219046.39
+,Ventas,61975717.05
+,uti_bruta,22444286.06
+,EBIT,3781493.35
+,EBITDA,4143560.81
+,EBT,958749.2
+,uti_neta,958749.2
+,costo_venta,-40750477.38
+,EBDA,1320816.66
+,ratio_liquidez,6.41274942
+,ratio_rapido,2.468545848
+,ratio_cash,0.164721899
+,deuda_activos,0.35129176
+,deuda_patrimonio,0.627545685
+,apalancamiento,1.78639455
+,cobertura_int,
+,DEUDA_ESTR,
+,CAP_EMPL,
+,mg_ebitda,
+,carga_impositiva,
+,carga_intereses,
+,mg_bruto,
+,mg_neto,
+,mg_operativo,
+,ROA,
+,ROE,
+,ROCE,
+,rotacion_trabajo,
+,rotacion_fijos,
+,rotacion_activos,
+,rotacion_cxc,
+,rotacion_inventarios,
+,rotacion_cxp,
+,dias_inventario,
+,dias_cxc,
+,dias_cxp,
+,ciclo_operativo,
+,ciclo_caja,
+,anos_d_estr,
+,Generacion_T_CAJA,
+,DEUDA_ESTRUCTURAL,
+,deuda_ebitda,
+,ventas12M,
+,utinet12M,
+,EBITDA12M,
+2018-09-01 00:00:00,PATRIMONIO,226274191.8
+,RESULTEX,1456022.32
+,ACTIVO_T,420587972.3
+,PASIVO_T,192857758.2
+,PATRIMONIO_T,227730214.1
+,Activo Biológico,89799777.06
+,Capital Social,69449428.39
+,Cuentas por Cobrar Comerciales,24238303.94
+,Cuentas por Cobrar a Relacionadas,4462417.28
+,Cuentas por Pagar Comerciales,18828798.21
+,Cuentas por Pagar a Relacionadas,132092.57
+,Efectivo y Equivalente de Efectivo,5780960.52
+,Existencias,15890444.49
+,Gastos Pagados por Anticipado y Otros Activos,9940320.84
+,Impuestos por Recuperar,0
+,"Inmueble, Maquinaria y Equipo, Neto",133650326.3
+,Instrumento Financiero Derivados,1158906.28
+,Instrumentos Financieros Derivados,73947.23
+,Inversiónes Mobiliarias,89718817.53
+,Obligaciones Financieras,142696946.7
+,Otras Cuenta por Cobrar Largo Plazo,304294.4
+,Otras Cuentas por Pagar,-5110417.89
+,Otras Cuentas por Pagar Largo Plazo,16762505.98
+,Parte Corriente de Activo Biológico,46728362.72
+,Pasivo por Impuesto a la Renta Diferido,11625472.94
+,Porcion Corriente de Obligaciones Financieras,6724218.69
+,Reserva Legal,34978930.77
+,Resultados Acumulados,121845832.6
+,Sobregiros Bancarios,39234.76
+,ACTIVO_CORR,107114757
+,ACTIVO_NCORR,313473215.3
+,PASIVO_CORR,21772832.62
+,PASIVO_NCORR,171084925.6
+,CxC,28700721.22
+,INVENTARIOS,62618807.21
+,CxP,13850472.89
+,CAPEX,85341924.4
+,ACT_FIJ,313168920.9
+,CASH,5780960.52
+,DEUDA_TOT,149460400.1
+,Cambios en el Valor Razonable de Activos Biológicos,0
+,Costo de Venta - NIC 41,-3746436.55
+,Costo de Ventas,-45334327.02
+,Depr. De Gastos de Administración,-387729.47
+,Depr. De Gastos de Venta,-19376.2
+,"Diferencia de Cambio, Neta",-1549223.37
+,Gastos Financieros,-2022578.9
+,Gastos de Administración,-10477456.82
+,Gastos de Venta,-9391737.39
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,0
+,Ingresos Financieros,28508.41
+,"Instrumentos Financieros, Netos",427921
+,Otros Gastos,-697315.71
+,Otros Gastos - NIC 41,-1709844.03
+,Otros Ingresos,2406693.58
+,Restitución de Derechos Arancelarios,1229946.2
+,Ventas,72698978.59
+,uti_bruta,24848161.22
+,EBIT,4571395.18
+,EBITDA,4978500.85
+,EBT,1456022.32
+,uti_neta,1456022.32
+,costo_venta,-49080763.57
+,EBDA,1863127.99
+,ratio_liquidez,4.919651884
+,ratio_rapido,2.043645427
+,ratio_cash,0.26551256
+,deuda_activos,0.355360614
+,deuda_patrimonio,0.656304657
+,apalancamiento,1.846869437
+,cobertura_int,
+,DEUDA_ESTR,
+,CAP_EMPL,
+,mg_ebitda,
+,carga_impositiva,
+,carga_intereses,
+,mg_bruto,
+,mg_neto,
+,mg_operativo,
+,ROA,
+,ROE,
+,ROCE,
+,rotacion_trabajo,
+,rotacion_fijos,
+,rotacion_activos,
+,rotacion_cxc,
+,rotacion_inventarios,
+,rotacion_cxp,
+,dias_inventario,
+,dias_cxc,
+,dias_cxp,
+,ciclo_operativo,
+,ciclo_caja,
+,anos_d_estr,
+,Generacion_T_CAJA,
+,DEUDA_ESTRUCTURAL,
+,deuda_ebitda,
+,ventas12M,
+,utinet12M,
+,EBITDA12M,
+2018-10-01 00:00:00,PATRIMONIO,226274191.8
+,RESULTEX,-2851242.87
+,ACTIVO_T,422855552.9
+,PASIVO_T,199432604
+,PATRIMONIO_T,223422948.9
+,Activo Biológico,89570537.81
+,Capital Social,69449428.39
+,Cuentas por Cobrar Comerciales,21564295.07
+,Cuentas por Cobrar a Relacionadas,4170039.23
+,Cuentas por Pagar Comerciales,24997934.07
+,Cuentas por Pagar a Relacionadas,0
+,Efectivo y Equivalente de Efectivo,1739858.77
+,Existencias,19980303.95
+,Gastos Pagados por Anticipado y Otros Activos,9846560.18
+,Impuestos por Recuperar,0
+,"Inmueble, Maquinaria y Equipo, Neto",133444705.4
+,Instrumento Financiero Derivados,1279123.64
+,Instrumentos Financieros Derivados,75270.12
+,Inversiónes Mobiliarias,89718817.53
+,Obligaciones Financieras,144711751.9
+,Otras Cuenta por Cobrar Largo Plazo,372718.99
+,Otras Cuentas por Pagar,-6789483.15
+,Otras Cuentas por Pagar Largo Plazo,16752287.72
+,Parte Corriente de Activo Biológico,52372445.81
+,Pasivo por Impuesto a la Renta Diferido,11625472.94
+,Porcion Corriente de Obligaciones Financieras,6725736.53
+,Reserva Legal,34978930.77
+,Resultados Acumulados,121845832.6
+,Sobregiros Bancarios,129780.32
+,ACTIVO_CORR,109748773.1
+,ACTIVO_NCORR,313106779.8
+,PASIVO_CORR,26343091.41
+,PASIVO_NCORR,173089512.6
+,CxC,25734334.3
+,INVENTARIOS,72352749.76
+,CxP,18208450.92
+,CAPEX,83405681.72
+,ACT_FIJ,312734060.8
+,CASH,1739858.77
+,DEUDA_TOT,151567268.8
+,Cambios en el Valor Razonable de Activos Biológicos,0
+,Costo de Venta - NIC 41,-4153632.4
+,Costo de Ventas,-48083591.38
+,Depr. De Gastos de Administración,-430607.49
+,Depr. De Gastos de Venta,-21571.45
+,"Diferencia de Cambio, Neta",-3737166.73
+,Gastos Financieros,-2041888.82
+,Gastos de Administración,-11491204.42
+,Gastos de Venta,-10173220.08
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,0
+,Ingresos Financieros,29953.66
+,"Instrumentos Financieros, Netos",328059.95
+,Otros Gastos,-698234.03
+,Otros Gastos - NIC 41,-1709844.03
+,Otros Ingresos,2549731.28
+,Restitución de Derechos Arancelarios,1329660.37
+,Ventas,75452312.66
+,uti_bruta,24544749.25
+,EBIT,2569799.03
+,EBITDA,3021977.97
+,EBT,-2851242.91
+,uti_neta,-2851242.91
+,costo_venta,-52237223.78
+,EBDA,-2399063.97
+,ratio_liquidez,4.166131128
+,ratio_rapido,1.419576115
+,ratio_cash,0.066046112
+,deuda_activos,0.358437456
+,deuda_patrimonio,0.6783872
+,apalancamiento,1.892623631
+,cobertura_int,
+,DEUDA_ESTR,
+,CAP_EMPL,
+,mg_ebitda,
+,carga_impositiva,
+,carga_intereses,
+,mg_bruto,
+,mg_neto,
+,mg_operativo,
+,ROA,
+,ROE,
+,ROCE,
+,rotacion_trabajo,
+,rotacion_fijos,
+,rotacion_activos,
+,rotacion_cxc,
+,rotacion_inventarios,
+,rotacion_cxp,
+,dias_inventario,
+,dias_cxc,
+,dias_cxp,
+,ciclo_operativo,
+,ciclo_caja,
+,anos_d_estr,
+,Generacion_T_CAJA,
+,DEUDA_ESTRUCTURAL,
+,deuda_ebitda,
+,ventas12M,
+,utinet12M,
+,EBITDA12M,
+2018-11-01 00:00:00,PATRIMONIO, 
+,RESULTEX,-3039227.77
+,ACTIVO_T,431967430.5
+,PASIVO_T,208732466.5
+,PATRIMONIO_T,223234964
+,Activo Biológico,85814321.58
+,Capital Social,69449428.39
+,Cuentas por Cobrar Comerciales,38576490.88
+,Cuentas por Cobrar a Relacionadas,4160099.76
+,Cuentas por Pagar Comerciales,28443449.07
+,Cuentas por Pagar a Relacionadas,740708.39
+,Efectivo y Equivalente de Efectivo,4633870.04
+,Existencias,19165788.61
+,Gastos Pagados por Anticipado y Otros Activos,9718001.18
+,Impuestos por Recuperar,0
+,"Inmueble, Maquinaria y Equipo, Neto",134093318
+,Instrumento Financiero Derivados,1286302.28
+,Instrumentos Financieros Derivados,75696.13
+,Inversiónes Mobiliarias,89718817.53
+,Obligaciones Financieras,145252486.9
+,Otras Cuenta por Cobrar Largo Plazo,372742.13
+,Otras Cuentas por Pagar,-7300513.46
+,Otras Cuentas por Pagar Largo Plazo,16753792.74
+,Parte Corriente de Activo Biológico,45638284.66
+,Pasivo por Impuesto a la Renta Diferido,11625472.94
+,Porcion Corriente de Obligaciones Financieras,11832268.97
+,Reserva Legal,34978930.77
+,Resultados Acumulados,121845832.6
+,Sobregiros Bancarios,98498.64
+,ACTIVO_CORR,121968231.3
+,ACTIVO_NCORR,309999199.3
+,PASIVO_CORR,35100713.89
+,PASIVO_NCORR,173631752.6
+,CxC,42736590.64
+,INVENTARIOS,64804073.27
+,CxP,21883644
+,CAPEX,86867517.37
+,ACT_FIJ,309626457.1
+,CASH,4633870.04
+,DEUDA_TOT,157183254.5
+,Cambios en el Valor Razonable de Activos Biológicos,0
+,Costo de Venta - NIC 41,-4535085.65
+,Costo de Ventas,-68613806.56
+,Depr. De Gastos de Administración,-473500.72
+,Depr. De Gastos de Venta,-23766.7
+,"Diferencia de Cambio, Neta",-4634219.74
+,Gastos Financieros,-2072521.46
+,Gastos de Administración,-12822662.52
+,Gastos de Venta,-12781134.76
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,0
+,Ingresos Financieros,35762.46
+,"Instrumentos Financieros, Netos",328114.45
+,Otros Gastos,-1956173.94
+,Otros Gastos - NIC 41,-4850441.73
+,Otros Ingresos,2587623.62
+,Restitución de Derechos Arancelarios,1679361.67
+,Ventas,105093223.8
+,uti_bruta,33623693.26
+,EBIT,3303636.51
+,EBITDA,3800903.93
+,EBT,-3039227.78
+,uti_neta,-3039227.78
+,costo_venta,-73148892.21
+,EBDA,-2541960.36
+,ratio_liquidez,3.47480771
+,ratio_rapido,1.628575367
+,ratio_cash,0.132016404
+,deuda_activos,0.36387756
+,deuda_patrimonio,0.704115752
+,apalancamiento,1.935034829
+,cobertura_int,
+,DEUDA_ESTR,
+,CAP_EMPL,
+,mg_ebitda,
+,carga_impositiva,
+,carga_intereses,
+,mg_bruto,
+,mg_neto,
+,mg_operativo,
+,ROA,
+,ROE,
+,ROCE,
+,rotacion_trabajo,
+,rotacion_fijos,
+,rotacion_activos,
+,rotacion_cxc,
+,rotacion_inventarios,
+,rotacion_cxp,
+,dias_inventario,
+,dias_cxc,
+,dias_cxp,
+,ciclo_operativo,
+,ciclo_caja,
+,anos_d_estr,
+,Generacion_T_CAJA,
+,DEUDA_ESTRUCTURAL,
+,deuda_ebitda,
+,ventas12M,
+,utinet12M,
+,EBITDA12M,
+2018-12-01 00:00:00,PATRIMONIO,207569218.6
+,RESULTEX,-2.98023E-08
+,ACTIVO_T,429225235.1
+,PASIVO_T,221656016.5
+,PATRIMONIO_T,207569218.6
+,Activo Biológico,73482227.54
+,Capital Social,69449428.39
+,Cuentas por Cobrar Comerciales,55661524.47
+,Cuentas por Cobrar a Relacionadas,4284388.39
+,Cuentas por Pagar Comerciales,29810054.82
+,Cuentas por Pagar a Relacionadas,398343.68
+,Efectivo y Equivalente de Efectivo,6698990.88
+,Existencias,24445936.43
+,Gastos Pagados por Anticipado y Otros Activos,9369945.54
+,Impuestos por Recuperar,0
+,"Inmueble, Maquinaria y Equipo, Neto",135346502.7
+,Instrumento Financiero Derivados,1272188.75
+,Instrumentos Financieros Derivados,75404.65
+,Inversiónes Mobiliarias,89718817.53
+,Obligaciones Financieras,115994403.7
+,Otras Cuenta por Cobrar Largo Plazo,381442.44
+,Otras Cuentas por Pagar,-9067097.24
+,Otras Cuentas por Pagar Largo Plazo,16772363.74
+,Parte Corriente de Activo Biológico,29760054.49
+,Pasivo por Impuesto a la Renta Diferido,11625472.94
+,Porcion Corriente de Obligaciones Financieras,54280229.21
+,Reserva Legal,34978930.77
+,Resultados Acumulados,103140859.5
+,Sobregiros Bancarios,570056.87
+,ACTIVO_CORR,130296244.9
+,ACTIVO_NCORR,298928990.2
+,PASIVO_CORR,77263776.09
+,PASIVO_NCORR,144392240.4
+,CxC,59945912.86
+,INVENTARIOS,54205990.92
+,CxP,21141301.26
+,CAPEX,53032468.76
+,ACT_FIJ,298547547.8
+,CASH,6698990.88
+,DEUDA_TOT,170844689.8
+,Cambios en el Valor Razonable de Activos Biológicos,0
+,Costo de Venta - NIC 41,-4825138.82
+,Costo de Ventas,-90857742.47
+,Depr. De Gastos de Administración,-516306.25
+,Depr. De Gastos de Venta,-25961.95
+,"Diferencia de Cambio, Neta",-5021808.33
+,Gastos Financieros,-7148566.01
+,Gastos de Administración,-14533379.28
+,Gastos de Venta,-18273991.24
+,Impuesto a la Renta Corriente,-643206
+,Impuesto a la Renta Diferido,0
+,Ingresos Financieros,42236.11
+,"Instrumentos Financieros, Netos",427608.43
+,Otros Gastos,-3637007.25
+,Otros Gastos - NIC 41,-15909852.68
+,Otros Ingresos,3724767.68
+,Restitución de Derechos Arancelarios,2040967.58
+,Ventas,136452407.3
+,uti_bruta,42810493.58
+,EBIT,-6361237.39
+,EBITDA,-5818969.19
+,EBT,-18061767.19
+,uti_neta,-18704973.19
+,costo_venta,-95682881.29
+,EBDA,-18162704.99
+,ratio_liquidez,1.686382047
+,ratio_rapido,0.984811483
+,ratio_cash,0.086702867
+,deuda_activos,0.398030395
+,deuda_patrimonio,0.823073339
+,apalancamiento,2.067865544
+,cobertura_int,2.373380935
+,DEUDA_ESTR,91359771.63
+,CAP_EMPL,351961459
+,mg_ebitda,0.081413223
+,carga_impositiva,0.973375331
+,carga_intereses,0.411477706
+,mg_bruto,0.34376656
+,mg_neto,0.030760705
+,mg_operativo,0.076801488
+,ROA,0.004410055
+,ROE,0.008349584
+,ROCE,0.013209325
+,rotacion_trabajo,0.991864322
+,rotacion_fijos,0.208308952
+,rotacion_activos,0.143366508
+,rotacion_cxc,0.846657065
+,rotacion_inventarios,0.988209983
+,rotacion_cxp,5.931886421
+,dias_inventario,369.3546982
+,dias_cxc,431.1072514
+,dias_cxp,61.53185919
+,ciclo_operativo,800.4619496
+,ciclo_caja,738.9300904
+,anos_d_estr,31.71633779
+,Generacion_T_CAJA,2253376.18
+,DEUDA_ESTRUCTURAL,71468840.1
+,deuda_ebitda,32.02192238
+,ventas12M,
+,utinet12M,
+,EBITDA12M,
+2019-01-01 00:00:00,PATRIMONIO,207569218.6
+,RESULTEX,15137002.97
+,ACTIVO_T,442579108.3
+,PASIVO_T,219872886.8
+,PATRIMONIO_T,222706221.6
+,Activo Biológico,72589041.87
+,Capital Social,69449428.39
+,Cuentas por Cobrar Comerciales,79813442.67
+,Cuentas por Cobrar a Relacionadas,5708129.61
+,Cuentas por Pagar Comerciales,29046116.02
+,Cuentas por Pagar a Relacionadas,86649.72
+,Efectivo y Equivalente de Efectivo,9229618.96
+,Existencias,18604911.03
+,Gastos Pagados por Anticipado y Otros Activos,10596338.33
+,Impuestos por Recuperar,0
+,"Inmueble, Maquinaria y Equipo, Neto",135098892.3
+,Instrumento Financiero Derivados,1196215.05
+,Instrumentos Financieros Derivados,75135.59
+,Inversiónes Mobiliarias,89718817.53
+,Obligaciones Financieras,115508153.6
+,Otras Cuenta por Cobrar Largo Plazo,378490.02
+,Otras Cuentas por Pagar,-9254085.45
+,Otras Cuentas por Pagar Largo Plazo,17441038.24
+,Parte Corriente de Activo Biológico,20766290.45
+,Pasivo por Impuesto a la Renta Diferido,11625472.94
+,Porcion Corriente de Obligaciones Financieras,54038625.8
+,Reserva Legal,34978930.77
+,Resultados Acumulados,103140859.5
+,Sobregiros Bancarios,184700.82
+,ACTIVO_CORR,144793866.6
+,ACTIVO_NCORR,297785241.7
+,PASIVO_CORR,75298221.96
+,PASIVO_NCORR,144574664.8
+,CxC,85521572.28
+,INVENTARIOS,39371201.48
+,CxP,19878680.29
+,CAPEX,69495644.68
+,ACT_FIJ,297406751.7
+,CASH,9229618.96
+,DEUDA_TOT,169731480.2
+,Cambios en el Valor Razonable de Activos Biológicos,0
+,Costo de Venta - NIC 41,-265226.58
+,Costo de Ventas,-21267378.47
+,Depr. De Gastos de Administración,-42818.6
+,Depr. De Gastos de Venta,-2195.25
+,"Diferencia de Cambio, Neta",660325.2
+,Gastos Financieros,-23985.41
+,Gastos de Administración,-1225821.44
+,Gastos de Venta,-4601903.61
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,0
+,Ingresos Financieros,670.09
+,"Instrumentos Financieros, Netos",70311.14
+,Otros Gastos,-1183430.99
+,Otros Gastos - NIC 41,-2979191.4
+,Otros Ingresos,51247.17
+,Restitución de Derechos Arancelarios,129527.3
+,Ventas,45816873.82
+,uti_bruta,24413796.07
+,EBIT,14429681.95
+,EBITDA,14474695.8
+,EBT,15137002.97
+,uti_neta,15137002.97
+,costo_venta,-21532605.05
+,EBDA,15182016.82
+,ratio_liquidez,1.922938721
+,ratio_rapido,1.400068453
+,ratio_cash,0.122574195
+,deuda_activos,0.383505405
+,deuda_patrimonio,0.76213174
+,apalancamiento,1.987277702
+,cobertura_int,1.973931914
+,DEUDA_ESTR,75079020.11
+,CAP_EMPL,367280886.4
+,mg_ebitda,0.068937785
+,carga_impositiva,0.952638152
+,carga_intereses,0.278092
+,mg_bruto,0.339872046
+,mg_neto,0.017033545
+,mg_operativo,0.064296685
+,ROA,0.002454991
+,ROE,0.004486189
+,ROCE,0.010761245
+,rotacion_trabajo,0.880875024
+,rotacion_fijos,0.206860971
+,rotacion_activos,0.14412681
+,rotacion_cxc,0.857440928
+,rotacion_inventarios,1.159656954
+,rotacion_cxp,1.818861083
+,dias_inventario,314.7482527
+,dias_cxc,425.6853017
+,dias_cxp,200.6750287
+,ciclo_operativo,740.4335545
+,ciclo_caja,539.7585258
+,anos_d_estr,48.10765612
+,Generacion_T_CAJA,1371876.828
+,DEUDA_ESTRUCTURAL,65997778.69
+,deuda_ebitda,36.24979846
+,ventas12M,-0.097014754
+,utinet12M,-0.411345905
+,EBITDA12M,-0.405578778
+2019-02-01 00:00:00,PATRIMONIO,207569218.6
+,RESULTEX,8176233.79
+,ACTIVO_T,426344746.5
+,PASIVO_T,210599294.1
+,PATRIMONIO_T,215745452.4
+,Activo Biológico,74355593.9
+,Capital Social,69449428.39
+,Cuentas por Cobrar Comerciales,52496355.12
+,Cuentas por Cobrar a Relacionadas,5678032.37
+,Cuentas por Pagar Comerciales,23538162.61
+,Cuentas por Pagar a Relacionadas,0.5
+,Efectivo y Equivalente de Efectivo,16767305.86
+,Existencias,18126202.92
+,Gastos Pagados por Anticipado y Otros Activos,10561049.19
+,Impuestos por Recuperar,0
+,"Inmueble, Maquinaria y Equipo, Neto",134816503
+,Instrumento Financiero Derivados,1114956.63
+,Instrumentos Financieros Derivados,74081.76
+,Inversiónes Mobiliarias,89718817.53
+,Obligaciones Financieras,113919736.5
+,Otras Cuenta por Cobrar Largo Plazo,375698.79
+,Otras Cuentas por Pagar,-3830251.71
+,Otras Cuentas por Pagar Largo Plazo,17364664.24
+,Parte Corriente de Activo Biológico,23375106.09
+,Pasivo por Impuesto a la Renta Diferido,11625472.94
+,Porcion Corriente de Obligaciones Financieras,46629529.58
+,Reserva Legal,34978930.77
+,Resultados Acumulados,103140859.5
+,Sobregiros Bancarios,237022.78
+,ACTIVO_CORR,127078133.3
+,ACTIVO_NCORR,299266613.2
+,PASIVO_CORR,67689420.39
+,PASIVO_NCORR,142909873.7
+,CxC,58174387.49
+,INVENTARIOS,41501309.01
+,CxP,19707911.4
+,CAPEX,59388712.92
+,ACT_FIJ,298890914.4
+,CASH,16767305.86
+,DEUDA_TOT,160786288.9
+,Cambios en el Valor Razonable de Activos Biológicos,0
+,Costo de Venta - NIC 41,-530453.16
+,Costo de Ventas,-24097624.62
+,Depr. De Gastos de Administración,-87095.62
+,Depr. De Gastos de Venta,-4548.98
+,"Diferencia de Cambio, Neta",2335123.83
+,Gastos Financieros,-73042.77
+,Gastos de Administración,-2370213.52
+,Gastos de Venta,-5796223.73
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,0
+,Ingresos Financieros,1114.9
+,"Instrumentos Financieros, Netos",134098.76
+,Otros Gastos,-1183430.99
+,Otros Gastos - NIC 41,-2979191.4
+,Otros Ingresos,70871.96
+,Restitución de Derechos Arancelarios,456531.46
+,Ventas,42300317.67
+,uti_bruta,18128771.35
+,EBIT,5778939.07
+,EBITDA,5870583.67
+,EBT,8176233.79
+,uti_neta,8176233.79
+,costo_venta,-24628077.78
+,EBDA,8267878.39
+,ratio_liquidez,1.877370682
+,ratio_rapido,1.264257011
+,ratio_cash,0.247709402
+,deuda_activos,0.377127407
+,deuda_patrimonio,0.745259226
+,apalancamiento,1.976147083
+,cobertura_int,1.343234906
+,DEUDA_ESTR,83521160.79
+,CAP_EMPL,358655326.1
+,mg_ebitda,0.048977167
+,carga_impositiva,9.519695519
+,carga_intereses,-0.002273382
+,mg_bruto,0.33135742
+,mg_neto,-0.000958203
+,mg_operativo,0.044275368
+,ROA,-0.000145322
+,ROE,-0.000262768
+,ROCE,0.007588916
+,rotacion_trabajo,1.083866581
+,rotacion_fijos,0.203826835
+,rotacion_activos,0.151661064
+,rotacion_cxc,1.4966182
+,rotacion_inventarios,1.068822311
+,rotacion_cxp,2.29993608
+,dias_inventario,341.4973622
+,dias_cxc,243.883176
+,dias_cxp,158.7000626
+,ciclo_operativo,585.3805382
+,ciclo_caja,426.6804756
+,anos_d_estr,337.9137679
+,Generacion_T_CAJA,233990.9792
+,DEUDA_ESTRUCTURAL,79068773.43
+,deuda_ebitda,47.75528401
+,ventas12M,-0.183034212
+,utinet12M,-0.62550014
+,EBITDA12M,-0.726891291
+2019-03-01 00:00:00,PATRIMONIO,196966739.9
+,RESULTEX,5583646.84
+,ACTIVO_T,383424685.1
+,PASIVO_T,180874298.4
+,PATRIMONIO_T,202550386.7
+,Activo Biológico,75497793.41
+,Capital Social,92599237.39
+,Cuentas por Cobrar Comerciales,19605897.5
+,Cuentas por Cobrar a Relacionadas,5851446.13
+,Cuentas por Pagar Comerciales,15234959.74
+,Cuentas por Pagar a Relacionadas,32038.06
+,Efectivo y Equivalente de Efectivo,14455442.67
+,Existencias,13763707.29
+,Gastos Pagados por Anticipado y Otros Activos,10663658.47
+,Impuestos por Recuperar,0
+,"Inmueble, Maquinaria y Equipo, Neto",135613282.5
+,Instrumento Financiero Derivados,1142286.88
+,Instrumentos Financieros Derivados,0
+,Inversiónes Mobiliarias,89718817.53
+,Obligaciones Financieras,107655777.6
+,Otras Cuenta por Cobrar Largo Plazo,374090.25
+,Otras Cuentas por Pagar,-4475470.24
+,Otras Cuentas por Pagar Largo Plazo,17374078.22
+,Parte Corriente de Activo Biológico,17880549.34
+,Pasivo por Impuesto a la Renta Diferido,4645345.49
+,Porcion Corriente de Obligaciones Financieras,38949085.48
+,Reserva Legal,12032123.59
+,Resultados Acumulados,92335378.89
+,Sobregiros Bancarios,316197.14
+,ACTIVO_CORR,82220701.4
+,ACTIVO_NCORR,301203983.7
+,PASIVO_CORR,51199097.06
+,PASIVO_NCORR,129675201.3
+,CxC,25457343.63
+,INVENTARIOS,31644256.63
+,CxP,10791527.56
+,CAPEX,31021604.34
+,ACT_FIJ,300829893.4
+,CASH,14455442.67
+,DEUDA_TOT,146921060.2
+,Cambios en el Valor Razonable de Activos Biológicos,2292658.99
+,Costo de Venta - NIC 41,-795679.74
+,Costo de Ventas,-29617325.69
+,Depr. De Gastos de Administración,-131329.83
+,Depr. De Gastos de Venta,-6902.71
+,"Diferencia de Cambio, Neta",1819589.89
+,Gastos Financieros,-1640573.52
+,Gastos de Administración,-3563821.53
+,Gastos de Venta,-6069858.82
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,6980127.45
+,Ingresos Financieros,9614.06
+,"Instrumentos Financieros, Netos",37588.59
+,Otros Gastos,-1183430.99
+,Otros Gastos - NIC 41,-2979191.4
+,Otros Ingresos,285760.5
+,Restitución de Derechos Arancelarios,1101834.15
+,Ventas,39044587.44
+,uti_bruta,12026075.15
+,EBIT,-1622699.63
+,EBITDA,-1484467.09
+,EBT,-1396480.61
+,uti_neta,5583646.84
+,costo_venta,-30413005.43
+,EBDA,5721879.38
+,ratio_liquidez,1.605901395
+,ratio_rapido,0.987838608
+,ratio_cash,0.282337844
+,deuda_activos,0.383181016
+,deuda_patrimonio,0.725355614
+,apalancamiento,1.892984216
+,cobertura_int,1.10435923
+,DEUDA_ESTR,98653596.95
+,CAP_EMPL,332225588
+,mg_ebitda,0.041070244
+,carga_impositiva,-0.156712877
+,carga_intereses,-0.201114973
+,mg_bruto,0.331407896
+,mg_neto,0.001145926
+,mg_operativo,0.036358612
+,ROA,0.000187215
+,ROE,0.000324644
+,ROCE,0.006472798
+,rotacion_trabajo,1.455073871
+,rotacion_fijos,0.20306906
+,rotacion_activos,0.163374281
+,rotacion_cxc,3.705007421
+,rotacion_inventarios,1.162110786
+,rotacion_cxp,4.114690317
+,dias_inventario,314.0836522
+,dias_cxc,98.51532224
+,dias_cxp,88.70655429
+,ciclo_operativo,412.5989744
+,ciclo_caja,323.8924201
+,anos_d_estr,239.0239483
+,Generacion_T_CAJA,365709.6042
+,DEUDA_ESTRUCTURAL,87413353.54
+,deuda_ebitda,52.56468229
+,ventas12M,-0.021216026
+,utinet12M,0.393678132
+,EBITDA12M,-1.331288045
+2019-04-01 00:00:00,PATRIMONIO,146855239.9
+,RESULTEX,-1940204.05
+,ACTIVO_T,316881729.6
+,PASIVO_T,171966693.7
+,PATRIMONIO_T,144915035.8
+,Activo Biológico,75497793.41
+,Capital Social,69449428.29
+,Cuentas por Cobrar Comerciales,7860148.69
+,Cuentas por Cobrar a Relacionadas,5974719.24
+,Cuentas por Pagar Comerciales,11982842.97
+,Cuentas por Pagar a Relacionadas,8242.62
+,Efectivo y Equivalente de Efectivo,10407077.17
+,Existencias,12878367.29
+,Gastos Pagados por Anticipado y Otros Activos,10475785.92
+,Impuestos por Recuperar,0
+,"Inmueble, Maquinaria y Equipo, Neto",137061313.7
+,Instrumento Financiero Derivados,1142286.88
+,Instrumentos Financieros Derivados,0
+,Inversiónes Mobiliarias,39607317.53
+,Obligaciones Financieras,107655777.6
+,Otras Cuenta por Cobrar Largo Plazo,374090.25
+,Otras Cuentas por Pagar,-5267015.98
+,Otras Cuentas por Pagar Largo Plazo,17424253.22
+,Parte Corriente de Activo Biológico,16745116.33
+,Pasivo por Impuesto a la Renta Diferido,4645345.49
+,Porcion Corriente de Obligaciones Financieras,34210367.29
+,Reserva Legal,12032123.59
+,Resultados Acumulados,65373687.99
+,Sobregiros Bancarios,164593.67
+,ACTIVO_CORR,64341214.64
+,ACTIVO_NCORR,252540514.9
+,PASIVO_CORR,42241317.45
+,PASIVO_NCORR,129725376.3
+,CxC,13834867.93
+,INVENTARIOS,29623483.62
+,CxP,6724069.61
+,CAPEX,22099897.19
+,ACT_FIJ,252166424.7
+,CASH,10407077.17
+,DEUDA_TOT,142030738.5
+,Cambios en el Valor Razonable de Activos Biológicos,2292658.99
+,Costo de Venta - NIC 41,-1060906.32
+,Costo de Ventas,-30087989.07
+,Depr. De Gastos de Administración,-175311.24
+,Depr. De Gastos de Venta,-9256.44
+,"Diferencia de Cambio, Neta",1986963.45
+,Gastos Financieros,-1980916.95
+,Gastos de Administración,-5271121.03
+,Gastos de Venta,-6207392.08
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,6980127.45
+,Ingresos Financieros,10785.49
+,"Instrumentos Financieros, Netos",486424.03
+,Otros Gastos,-1183430.99
+,Otros Gastos - NIC 41,-2979191.4
+,Otros Ingresos,369022.6
+,Restitución de Derechos Arancelarios,1272208.84
+,Ventas,39784345.09
+,uti_bruta,12200317.53
+,EBIT,-3256363.05
+,EBITDA,-3071795.37
+,EBT,-2753107.03
+,uti_neta,4227020.42
+,costo_venta,-31148895.39
+,EBDA,4411588.1
+,ratio_liquidez,1.523182006
+,ratio_rapido,0.821890346
+,ratio_cash,0.246371984
+,deuda_activos,0.448213719
+,deuda_patrimonio,0.980096632
+,apalancamiento,2.186672541
+,cobertura_int,0.842664233
+,DEUDA_ESTR,107625479.1
+,CAP_EMPL,274640412.1
+,mg_ebitda,0.032645617
+,carga_impositiva,-0.288447006
+,carga_intereses,-0.494499247
+,mg_bruto,0.331935485
+,mg_neto,0.003982917
+,mg_operativo,0.02792348
+,ROA,0.000703311
+,ROE,0.001341435
+,ROCE,0.005360695
+,rotacion_trabajo,1.501608848
+,rotacion_fijos,0.220385046
+,rotacion_activos,0.176581862
+,rotacion_cxc,6.003268077
+,rotacion_inventarios,1.130622387
+,rotacion_cxp,5.775613385
+,dias_inventario,322.8310391
+,dias_cxc,60.80021671
+,dias_cxp,63.19675083
+,ciclo_operativo,383.6312558
+,ciclo_caja,320.434505
+,anos_d_estr,180.795077
+,Generacion_T_CAJA,542995.795
+,DEUDA_ESTRUCTURAL,98170966.58
+,deuda_ebitda,68.23234027
+,ventas12M,-0.016823166
+,utinet12M,1.008809053
+,EBITDA12M,-1.941631207
+2019-05-01 00:00:00,PATRIMONIO,146855239.9
+,RESULTEX,1403411.9
+,ACTIVO_T,340280184.6
+,PASIVO_T,192021532.8
+,PATRIMONIO_T,148258651.8
+,Activo Biológico,77429379.21
+,Capital Social,69449428.29
+,Cuentas por Cobrar Comerciales,7983476.59
+,Cuentas por Cobrar a Relacionadas,5881466.26
+,Cuentas por Pagar Comerciales,13100514.71
+,Cuentas por Pagar a Relacionadas,18080.81
+,Efectivo y Equivalente de Efectivo,21760467.69
+,Existencias,15409574.05
+,Gastos Pagados por Anticipado y Otros Activos,10454749.78
+,Impuestos por Recuperar,0
+,"Inmueble, Maquinaria y Equipo, Neto",138364407.1
+,Instrumento Financiero Derivados,748625.38
+,Instrumentos Financieros Derivados,0
+,Inversiónes Mobiliarias,39607317.53
+,Obligaciones Financieras,127513777.9
+,Otras Cuenta por Cobrar Largo Plazo,375883.53
+,Otras Cuentas por Pagar,-6113060.37
+,Otras Cuentas por Pagar Largo Plazo,17277829.37
+,Parte Corriente de Activo Biológico,23013462.9
+,Pasivo por Impuesto a la Renta Diferido,4645345.49
+,Porcion Corriente de Obligaciones Financieras,34608916.91
+,Reserva Legal,12032123.59
+,Resultados Acumulados,65373687.99
+,Sobregiros Bancarios,221502.6
+,ACTIVO_CORR,84503197.27
+,ACTIVO_NCORR,255776987.3
+,PASIVO_CORR,42584580.04
+,PASIVO_NCORR,149436952.8
+,CxC,13864942.85
+,INVENTARIOS,38423036.95
+,CxP,7005535.15
+,CAPEX,41918617.23
+,ACT_FIJ,255401103.8
+,CASH,21760467.69
+,DEUDA_TOT,162344197.4
+,Cambios en el Valor Razonable de Activos Biológicos,2292658.99
+,Costo de Venta - NIC 41,-1326132.9
+,Costo de Ventas,-30647282.5
+,Depr. De Gastos de Administración,-219093.48
+,Depr. De Gastos de Venta,-11610.17
+,"Diferencia de Cambio, Neta",34450.18
+,Gastos Financieros,-2090969.97
+,Gastos de Administración,-6389957.16
+,Gastos de Venta,-6317560.35
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,6980127.45
+,Ingresos Financieros,10794.09
+,"Instrumentos Financieros, Netos",423535.33
+,Otros Gastos,-1184540.19
+,Otros Gastos - NIC 41,-2979191.4
+,Otros Ingresos,458045.52
+,Restitución de Derechos Arancelarios,1864024.59
+,Ventas,40506113.87
+,uti_bruta,12689382.05
+,EBIT,-3954525.18
+,EBITDA,-3723821.53
+,EBT,-5576715.55
+,uti_neta,1403411.9
+,costo_venta,-31973415.4
+,EBDA,1634115.55
+,ratio_liquidez,1.984361409
+,ratio_rapido,1.082085588
+,ratio_cash,0.510994066
+,deuda_activos,0.477089777
+,deuda_patrimonio,1.095006568
+,apalancamiento,2.295179273
+,cobertura_int,0.632833198
+,DEUDA_ESTR,107518335.6
+,CAP_EMPL,297695604.6
+,mg_ebitda,0.025878139
+,carga_impositiva,-0.340944857
+,carga_intereses,-0.956750076
+,mg_bruto,0.333846353
+,mg_neto,0.006898132
+,mg_operativo,0.021147006
+,ROA,0.001170239
+,ROE,0.002314442
+,ROCE,0.003854344
+,rotacion_trabajo,1.097972499
+,rotacion_fijos,0.218804171
+,rotacion_activos,0.169645775
+,rotacion_cxc,6.182165186
+,rotacion_inventarios,0.967816493
+,rotacion_cxp,6.365629297
+,dias_inventario,377.1376109
+,dias_cxc,59.04080351
+,dias_cxp,57.33918564
+,ciclo_operativo,436.1784144
+,ciclo_caja,378.8392288
+,anos_d_estr,137.1793445
+,Generacion_T_CAJA,725017.3158
+,DEUDA_ESTRUCTURAL,99457400.17
+,deuda_ebitda,94.34357243
+,ventas12M,-0.009645013
+,utinet12M,-2.808570295
+,EBITDA12M,-3.754280013
+2019-06-01 00:00:00,PATRIMONIO,146855239.9
+,RESULTEX,4665461.34
+,ACTIVO_T,337285202.7
+,PASIVO_T,185764501.5
+,PATRIMONIO_T,151520701.2
+,Activo Biológico,77843895.81
+,Capital Social,69449428.29
+,Cuentas por Cobrar Comerciales,9787644.07
+,Cuentas por Cobrar a Relacionadas,6191837.97
+,Cuentas por Pagar Comerciales,10610262.78
+,Cuentas por Pagar a Relacionadas,54409.21
+,Efectivo y Equivalente de Efectivo,13456813.87
+,Existencias,16377791.82
+,Gastos Pagados por Anticipado y Otros Activos,10722537.51
+,Impuestos por Recuperar,0
+,"Inmueble, Maquinaria y Equipo, Neto",138461666.9
+,Instrumento Financiero Derivados,654617.22
+,Instrumentos Financieros Derivados,0
+,Inversiónes Mobiliarias,39607317.53
+,Obligaciones Financieras,124745860.7
+,Otras Cuenta por Cobrar Largo Plazo,380020.46
+,Otras Cuentas por Pagar,-6546382.27
+,Otras Cuentas por Pagar Largo Plazo,17681710.16
+,Parte Corriente de Activo Biológico,24455676.75
+,Pasivo por Impuesto a la Renta Diferido,4645345.49
+,Porcion Corriente de Obligaciones Financieras,33857667.74
+,Reserva Legal,12032123.59
+,Resultados Acumulados,65373687.99
+,Sobregiros Bancarios,61010.53
+,ACTIVO_CORR,80992301.99
+,ACTIVO_NCORR,256292900.7
+,PASIVO_CORR,38691585.21
+,PASIVO_NCORR,147072916.3
+,CxC,15979482.04
+,INVENTARIOS,40833468.57
+,CxP,4118289.72
+,CAPEX,42300716.78
+,ACT_FIJ,255912880.3
+,CASH,13456813.87
+,DEUDA_TOT,158664538.9
+,Cambios en el Valor Razonable de Activos Biológicos,2292658.99
+,Costo de Venta - NIC 41,-1591359.48
+,Costo de Ventas,-33362622.63
+,Depr. De Gastos de Administración,-261826.21
+,Depr. De Gastos de Venta,-13963.9
+,"Diferencia de Cambio, Neta",3239773.73
+,Gastos Financieros,-2097533.46
+,Gastos de Administración,-7601825.03
+,Gastos de Venta,-6726575.35
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,6980127.45
+,Ingresos Financieros,10810.68
+,"Instrumentos Financieros, Netos",516883.88
+,Otros Gastos,-1184656.54
+,Otros Gastos - NIC 41,-2979191.4
+,Otros Ingresos,940137.59
+,Restitución de Derechos Arancelarios,1994841.36
+,Ventas,44509781.66
+,uti_bruta,13843299.9
+,EBIT,-3984600.94
+,EBITDA,-3708810.83
+,EBT,-2314666.11
+,uti_neta,4665461.34
+,costo_venta,-34953982.11
+,EBDA,4941251.45
+,ratio_liquidez,2.093279496
+,ratio_rapido,1.037921636
+,ratio_cash,0.347796912
+,deuda_activos,0.470416543
+,deuda_patrimonio,1.047147602
+,apalancamiento,2.226000804
+,cobertura_int,0.509630778
+,DEUDA_ESTR,104772199.5
+,CAP_EMPL,298593617.5
+,mg_ebitda,0.021803737
+,carga_impositiva,-0.874886896
+,carga_intereses,-1.134451821
+,mg_bruto,0.336560404
+,mg_neto,0.01695544
+,mg_operativo,0.017083274
+,ROA,0.002880795
+,ROE,0.005679672
+,ROCE,0.003124884
+,rotacion_trabajo,1.113664954
+,rotacion_fijos,0.219133091
+,rotacion_activos,0.169903855
+,rotacion_cxc,4.646654323
+,rotacion_inventarios,0.925143692
+,rotacion_cxp,5.026052223
+,dias_inventario,394.5333069
+,dias_cxc,78.55114124
+,dias_cxp,72.62160913
+,ciclo_operativo,473.0844481
+,ciclo_caja,400.462839
+,anos_d_estr,73.05940915
+,Generacion_T_CAJA,1356017.098
+,DEUDA_ESTRUCTURAL,99069808.01
+,deuda_ebitda,110.3775352
+,ventas12M,0.061389692
+,utinet12M,-2.607467923
+,EBITDA12M,4.174426163
+2019-07-01 00:00:00,PATRIMONIO,146870300.6
+,RESULTEX,5655599.25
+,ACTIVO_T,338706824
+,PASIVO_T,186180924.1
+,PATRIMONIO_T,152525899.9
+,Activo Biológico,80108078.21
+,Capital Social,69449428.29
+,Cuentas por Cobrar Comerciales,15481580.5
+,Cuentas por Cobrar a Relacionadas,6789106.93
+,Cuentas por Pagar Comerciales,16055050.97
+,Cuentas por Pagar a Relacionadas,141387.47
+,Efectivo y Equivalente de Efectivo,5533747.74
+,Existencias,16506090.78
+,Gastos Pagados por Anticipado y Otros Activos,11029409.94
+,Impuestos por Recuperar,0
+,"Inmueble, Maquinaria y Equipo, Neto",137471286.8
+,Instrumento Financiero Derivados,675843.8
+,Instrumentos Financieros Derivados,0
+,Inversiónes Mobiliarias,39613453.53
+,Obligaciones Financieras,125125027.4
+,Otras Cuenta por Cobrar Largo Plazo,380747.55
+,Otras Cuentas por Pagar,-7619113.32
+,Otras Cuentas por Pagar Largo Plazo,17883666.81
+,Parte Corriente de Activo Biológico,25793322.09
+,Pasivo por Impuesto a la Renta Diferido,4645345.49
+,Porcion Corriente de Obligaciones Financieras,29168978.59
+,Reserva Legal,12032123.59
+,Resultados Acumulados,65388748.76
+,Sobregiros Bancarios,104736.92
+,ACTIVO_CORR,81133257.98
+,ACTIVO_NCORR,257573566
+,PASIVO_CORR,38526884.43
+,PASIVO_NCORR,147654039.7
+,CxC,22270687.43
+,INVENTARIOS,42299412.87
+,CxP,8577325.12
+,CAPEX,42606373.55
+,ACT_FIJ,257192818.5
+,CASH,5533747.74
+,DEUDA_TOT,154398742.9
+,Cambios en el Valor Razonable de Activos Biológicos,2292658.99
+,Costo de Venta - NIC 41,-1856586.06
+,Costo de Ventas,-41180748.52
+,Depr. De Gastos de Administración,-304216.76
+,Depr. De Gastos de Venta,-16317.63
+,"Diferencia de Cambio, Neta",2725848.07
+,Gastos Financieros,-2281390.3
+,Gastos de Administración,-9075455.57
+,Gastos de Venta,-8175093.62
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,6980127.45
+,Ingresos Financieros,19164.25
+,"Instrumentos Financieros, Netos",497647.02
+,Otros Gastos,-1185758.26
+,Otros Gastos - NIC 41,-2979191.4
+,Otros Ingresos,1053492.87
+,Restitución de Derechos Arancelarios,2092287.45
+,Ventas,57049131.27
+,uti_bruta,18396743.13
+,EBIT,-2285797.24
+,EBITDA,-1965262.85
+,EBT,-1324528.2
+,uti_neta,5655599.25
+,costo_venta,-43037334.58
+,EBDA,5976133.64
+,ratio_liquidez,2.105886816
+,ratio_rapido,1.007967441
+,ratio_cash,0.143633409
+,deuda_activos,0.455847748
+,deuda_patrimonio,1.012278852
+,apalancamiento,2.220651209
+,cobertura_int,0.508860249
+,DEUDA_ESTR,105047666.2
+,CAP_EMPL,300179939.6
+,mg_ebitda,0.021713485
+,carga_impositiva,-1.955844513
+,carga_intereses,-0.893598753
+,mg_bruto,0.341757997
+,mg_neto,0.029799116
+,mg_operativo,0.017050083
+,ROA,0.005073564
+,ROE,0.009948289
+,ROCE,0.003125016
+,rotacion_trabajo,1.052027111
+,rotacion_fijos,0.222220165
+,rotacion_activos,0.170258872
+,rotacion_cxc,2.797908459
+,rotacion_inventarios,0.889272549
+,rotacion_cxp,3.805820766
+,dias_inventario,410.4478435
+,dias_cxc,130.4545897
+,dias_cxp,95.90572506
+,ciclo_operativo,540.9024331
+,ciclo_caja,444.9967081
+,anos_d_estr,43.81719873
+,Generacion_T_CAJA,2184589.888
+,DEUDA_ESTRUCTURAL,95722609.28
+,deuda_ebitda,107.8874124
+,ventas12M,0.21200184
+,utinet12M,-2.320299161
+,EBITDA12M,-0.070441073
+2019-08-01 00:00:00,PATRIMONIO,146870300.6
+,RESULTEX,7870942.82
+,ACTIVO_T,346466536.2
+,PASIVO_T,191725292.7
+,PATRIMONIO_T,154741243.5
+,Activo Biológico,81539441.93
+,Capital Social,69449428.29
+,Cuentas por Cobrar Comerciales,25323044.23
+,Cuentas por Cobrar a Relacionadas,8104323.66
+,Cuentas por Pagar Comerciales,17501435.57
+,Cuentas por Pagar a Relacionadas,182368.54
+,Efectivo y Equivalente de Efectivo,1798068.66
+,Existencias,13842916.05
+,Gastos Pagados por Anticipado y Otros Activos,10930952.21
+,Impuestos por Recuperar,0
+,"Inmueble, Maquinaria y Equipo, Neto",137411438.4
+,Instrumento Financiero Derivados,665867.09
+,Instrumentos Financieros Derivados,0
+,Inversiónes Mobiliarias,39613453.53
+,Obligaciones Financieras,128878778.2
+,Otras Cuenta por Cobrar Largo Plazo,386503.64
+,Otras Cuentas por Pagar,-7450500.63
+,Otras Cuentas por Pagar Largo Plazo,17922361.09
+,Parte Corriente de Activo Biológico,27516393.83
+,Pasivo por Impuesto a la Renta Diferido,4645345.49
+,Porcion Corriente de Obligaciones Financieras,29260277.23
+,Reserva Legal,12032123.59
+,Resultados Acumulados,65388748.76
+,Sobregiros Bancarios,119360.11
+,ACTIVO_CORR,87515698.64
+,ACTIVO_NCORR,258950837.5
+,PASIVO_CORR,40278807.91
+,PASIVO_NCORR,151446484.8
+,CxC,33427367.89
+,INVENTARIOS,41359309.88
+,CxP,10233303.48
+,CAPEX,47236890.73
+,ACT_FIJ,258564333.9
+,CASH,1798068.66
+,DEUDA_TOT,158258415.6
+,Cambios en el Valor Razonable de Activos Biológicos,2292658.99
+,Costo de Venta - NIC 41,-2106493.6
+,Costo de Ventas,-46867337.31
+,Depr. De Gastos de Administración,-345937.95
+,Depr. De Gastos de Venta,-18736.28
+,"Diferencia de Cambio, Neta",-1770743.32
+,Gastos Financieros,-2435783.13
+,Gastos de Administración,-10340489.86
+,Gastos de Venta,-10046648.13
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,6980127.45
+,Ingresos Financieros,19178.37
+,"Instrumentos Financieros, Netos",527899.04
+,Otros Gastos,-1293181.75
+,Otros Gastos - NIC 41,-3208977.16
+,Otros Ingresos,1101552.92
+,Restitución de Derechos Arancelarios,2161004.61
+,Ventas,73222849.93
+,uti_bruta,28702682.62
+,EBIT,4550264.41
+,EBITDA,4914938.64
+,EBT,890815.37
+,uti_neta,7870942.82
+,costo_venta,-48973830.91
+,EBDA,8235617.05
+,ratio_liquidez,2.172747983
+,ratio_rapido,1.145922413
+,ratio_cash,0.044640563
+,deuda_activos,0.456778358
+,deuda_patrimonio,1.022729377
+,apalancamiento,2.239005765
+,cobertura_int,0.530244111
+,DEUDA_ESTR,104209594.1
+,CAP_EMPL,306187728.3
+,mg_ebitda,0.0223964
+,carga_impositiva,-2.537378463
+,carga_intereses,-0.848540023
+,mg_bruto,0.344885996
+,mg_neto,0.038319358
+,mg_operativo,0.017797568
+,ROA,0.006427161
+,ROE,0.012889806
+,ROCE,0.003247857
+,rotacion_trabajo,0.970405066
+,rotacion_fijos,0.225026536
+,rotacion_activos,0.167726221
+,rotacion_cxc,2.07080494
+,rotacion_inventarios,0.860454941
+,rotacion_cxp,2.301494014
+,dias_inventario,424.1942055
+,dias_cxc,176.259962
+,dias_cxp,158.5926349
+,ciclo_operativo,600.4541675
+,ciclo_caja,441.8615326
+,anos_d_estr,34.40144076
+,Generacion_T_CAJA,2760823.254
+,DEUDA_ESTRUCTURAL,94976297.63
+,deuda_ebitda,106.7944397
+,ventas12M,0.181476446
+,utinet12M,7.209595189
+,EBITDA12M,0.186163029
+2019-09-01 00:00:00,PATRIMONIO,146870300.6
+,RESULTEX,7397441.07
+,ACTIVO_T,348955218.5
+,PASIVO_T,194687476.8
+,PATRIMONIO_T,154267741.7
+,Activo Biológico,81655538.96
+,Capital Social,69449428.29
+,Cuentas por Cobrar Comerciales,22470715.5
+,Cuentas por Cobrar a Relacionadas,8799594.94
+,Cuentas por Pagar Comerciales,16487989.89
+,Cuentas por Pagar a Relacionadas,175707.9
+,Efectivo y Equivalente de Efectivo,1697512.59
+,Existencias,13709987.73
+,Gastos Pagados por Anticipado y Otros Activos,10769275.91
+,Impuestos por Recuperar,0
+,"Inmueble, Maquinaria y Equipo, Neto",137063310.6
+,Instrumento Financiero Derivados,649650.36
+,Instrumentos Financieros Derivados,0
+,Inversiónes Mobiliarias,39613453.53
+,Obligaciones Financieras,128727111.5
+,Otras Cuenta por Cobrar Largo Plazo,386018.91
+,Otras Cuentas por Pagar,-3195820.79
+,Otras Cuentas por Pagar Largo Plazo,17919584.03
+,Parte Corriente de Activo Biológico,32789809.84
+,Pasivo por Impuesto a la Renta Diferido,4645345.49
+,Porcion Corriente de Obligaciones Financieras,29225843.24
+,Reserva Legal,12032123.59
+,Resultados Acumulados,65388748.76
+,Sobregiros Bancarios,52065.12
+,ACTIVO_CORR,90236896.51
+,ACTIVO_NCORR,258718322
+,PASIVO_CORR,43395435.72
+,PASIVO_NCORR,151292041
+,CxC,31270310.44
+,INVENTARIOS,46499797.57
+,CxP,13467877
+,CAPEX,46841460.79
+,ACT_FIJ,258332303.1
+,CASH,1697512.59
+,DEUDA_TOT,158005019.9
+,Cambios en el Valor Razonable de Activos Biológicos,2292658.99
+,Costo de Venta - NIC 41,-2369805.3
+,Costo de Ventas,-48758200.81
+,Depr. De Gastos de Administración,-388150.67
+,Depr. De Gastos de Venta,-21495.22
+,"Diferencia de Cambio, Neta",-1775709.16
+,Gastos Financieros,-2447471.74
+,Gastos de Administración,-11389591.11
+,Gastos de Venta,-10473730.41
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,6980127.45
+,Ingresos Financieros,19197.35
+,"Instrumentos Financieros, Netos",543332.17
+,Otros Gastos,-1774539.01
+,Otros Gastos - NIC 41,-3208977.16
+,Otros Ingresos,1798217.47
+,Restitución de Derechos Arancelarios,2231253.38
+,Ventas,76140324.85
+,uti_bruta,29536231.11
+,EBIT,4077965
+,EBITDA,4487610.89
+,EBT,417313.62
+,uti_neta,7397441.07
+,costo_venta,-51128006.11
+,EBDA,7807086.96
+,ratio_liquidez,2.079409851
+,ratio_rapido,1.007873252
+,ratio_cash,0.039117307
+,deuda_activos,0.452794546
+,deuda_patrimonio,1.024225921
+,apalancamiento,2.262010286
+,cobertura_int,0.502952034
+,DEUDA_ESTR,104450580.3
+,CAP_EMPL,305559782.8
+,mg_ebitda,0.021663896
+,carga_impositiva,-2.797753811
+,carga_intereses,-0.958573777
+,mg_bruto,0.349401501
+,mg_neto,0.045811951
+,mg_operativo,0.017082198
+,ROA,0.007670558
+,ROE,0.015674782
+,ROCE,0.003144278
+,rotacion_trabajo,0.992180781
+,rotacion_fijos,0.226293684
+,rotacion_activos,0.167435745
+,rotacion_cxc,2.266985649
+,rotacion_inventarios,0.755639603
+,rotacion_cxp,1.595832319
+,dias_inventario,483.0345029
+,dias_cxc,161.0067537
+,dias_cxp,228.720772
+,ciclo_operativo,644.0412566
+,ciclo_caja,415.3204846
+,anos_d_estr,29.81039298
+,Generacion_T_CAJA,3256153.168
+,DEUDA_ESTRUCTURAL,97067205.55
+,deuda_ebitda,110.5774335
+,ventas12M,0.047336927
+,utinet12M,4.080582192
+,EBITDA12M,-0.098601964
+2019-10-01 00:00:00,PATRIMONIO,146870300.6
+,RESULTEX,8698450.95
+,ACTIVO_T,356810799.8
+,PASIVO_T,201242048.2
+,PATRIMONIO_T,155568751.6
+,Activo Biológico,81914933.52
+,Capital Social,69449428.29
+,Cuentas por Cobrar Comerciales,14308589.05
+,Cuentas por Cobrar a Relacionadas,8230626.61
+,Cuentas por Pagar Comerciales,17939914.17
+,Cuentas por Pagar a Relacionadas,210607.03
+,Efectivo y Equivalente de Efectivo,12245488.04
+,Existencias,14232167.16
+,Gastos Pagados por Anticipado y Otros Activos,10575854.78
+,Impuestos por Recuperar,0
+,"Inmueble, Maquinaria y Equipo, Neto",136367915.9
+,Instrumento Financiero Derivados,602815.55
+,Instrumentos Financieros Derivados,0
+,Inversiónes Mobiliarias,39613453.53
+,Obligaciones Financieras,126982944.5
+,Otras Cuenta por Cobrar Largo Plazo,969806.21
+,Otras Cuentas por Pagar,-2277865.92
+,Otras Cuentas por Pagar Largo Plazo,17675824.66
+,Parte Corriente de Activo Biológico,38351964.97
+,Pasivo por Impuesto a la Renta Diferido,4645345.49
+,Porcion Corriente de Obligaciones Financieras,35451924.44
+,Reserva Legal,12032123.59
+,Resultados Acumulados,65388748.76
+,Sobregiros Bancarios,10538.27
+,ACTIVO_CORR,97944690.61
+,ACTIVO_NCORR,258866109.2
+,PASIVO_CORR,51937933.54
+,PASIVO_NCORR,149304114.6
+,CxC,22539215.66
+,INVENTARIOS,52584132.13
+,CxP,15872655.28
+,CAPEX,46006757.07
+,ACT_FIJ,257896302.9
+,CASH,12245488.04
+,DEUDA_TOT,162445407.2
+,Cambios en el Valor Razonable de Activos Biológicos,2292658.99
+,Costo de Venta - NIC 41,-2633117
+,Costo de Ventas,-51170244.37
+,Depr. De Gastos de Administración,-431897.56
+,Depr. De Gastos de Venta,-24050.87
+,"Diferencia de Cambio, Neta",308410.72
+,Gastos Financieros,-2466722.55
+,Gastos de Administración,-12625833.73
+,Gastos de Venta,-11178955.98
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,6980127.45
+,Ingresos Financieros,27140.1
+,"Instrumentos Financieros, Netos",581364.65
+,Otros Gastos,-1774539.01
+,Otros Gastos - NIC 41,-3208977.16
+,Otros Ingresos,1835159.95
+,Restitución de Derechos Arancelarios,2393193.75
+,Ventas,79794733.57
+,uti_bruta,30677224.94
+,EBIT,3268130.58
+,EBITDA,3724079.01
+,EBT,1718323.5
+,uti_neta,8698450.95
+,costo_venta,-53803361.37
+,EBDA,9154399.38
+,ratio_liquidez,1.88580261
+,ratio_rapido,0.873360863
+,ratio_cash,0.235771568
+,deuda_activos,0.455270433
+,deuda_patrimonio,1.044203322
+,apalancamiento,2.293589144
+,cobertura_int,0.521063769
+,DEUDA_ESTR,103297357.6
+,CAP_EMPL,304872866.2
+,mg_ebitda,0.022443703
+,carga_impositiva,-5.792069662
+,carga_intereses,-0.582842539
+,mg_bruto,0.355320625
+,mg_neto,0.060369531
+,mg_operativo,0.017882687
+,ROA,0.009945975
+,ROE,0.020710379
+,ROCE,0.003311626
+,rotacion_trabajo,0.978010596
+,rotacion_fijos,0.228981915
+,rotacion_activos,0.164751566
+,rotacion_cxc,1.990821037
+,rotacion_inventarios,0.767289306
+,rotacion_cxp,2.202727546
+,dias_inventario,475.7006221
+,dias_cxc,183.3414422
+,dias_cxp,165.7036526
+,ciclo_operativo,659.0420643
+,ciclo_caja,493.3384117
+,anos_d_estr,22.52479445
+,Generacion_T_CAJA,4218941.781
+,DEUDA_ESTRUCTURAL,95030796.4
+,deuda_ebitda,109.5889418
+,ventas12M,0.05755186
+,utinet12M,-4.05075759
+,EBITDA12M,0.232331621
+2019-11-01 00:00:00,PATRIMONIO,146870300.6
+,RESULTEX,10814328.55
+,ACTIVO_T,364428434.7
+,PASIVO_T,206743805.5
+,PATRIMONIO_T,157684629.2
+,Activo Biológico,82202382.9
+,Capital Social,69449428.29
+,Cuentas por Cobrar Comerciales,26762467.31
+,Cuentas por Cobrar a Relacionadas,7359752.24
+,Cuentas por Pagar Comerciales,22986807.94
+,Cuentas por Pagar a Relacionadas,197000.66
+,Efectivo y Equivalente de Efectivo,9523042.16
+,Existencias,15997201.36
+,Gastos Pagados por Anticipado y Otros Activos,10469982.93
+,Impuestos por Recuperar,0
+,"Inmueble, Maquinaria y Equipo, Neto",135973791.5
+,Instrumento Financiero Derivados,649859.19
+,Instrumentos Financieros Derivados,0
+,Inversiónes Mobiliarias,39613453.53
+,Obligaciones Financieras,128878778.2
+,Otras Cuenta por Cobrar Largo Plazo,1013587.29
+,Otras Cuentas por Pagar,-3855513.14
+,Otras Cuentas por Pagar Largo Plazo,17380287.93
+,Parte Corriente de Activo Biológico,35512773.49
+,Pasivo por Impuesto a la Renta Diferido,4645345.49
+,Porcion Corriente de Obligaciones Financieras,35861239.2
+,Reserva Legal,12032123.59
+,Resultados Acumulados,65388748.76
+,Sobregiros Bancarios,0
+,ACTIVO_CORR,105625219.5
+,ACTIVO_NCORR,258803215.2
+,PASIVO_CORR,55839393.85
+,PASIVO_NCORR,150904411.6
+,CxC,34122219.55
+,INVENTARIOS,51509974.85
+,CxP,19328295.46
+,CAPEX,49785825.64
+,ACT_FIJ,257789627.9
+,CASH,9523042.16
+,DEUDA_TOT,164740017.4
+,Cambios en el Valor Razonable de Activos Biológicos,2292658.99
+,Costo de Venta - NIC 41,-2896428.7
+,Costo de Ventas,-62162143.7
+,Depr. De Gastos de Administración,-475219.92
+,Depr. De Gastos de Venta,-26606.52
+,"Diferencia de Cambio, Neta",-1858075.94
+,Gastos Financieros,-2570412.7
+,Gastos de Administración,-13779098.54
+,Gastos de Venta,-13012005.24
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,6980127.45
+,Ingresos Financieros,40253.63
+,"Instrumentos Financieros, Netos",543320.94
+,Otros Gastos,-1922284.69
+,Otros Gastos - NIC 41,-3208977.16
+,Otros Ingresos,2315097.8
+,Restitución de Derechos Arancelarios,2760502.27
+,Ventas,97793620.58
+,uti_bruta,37788209.44
+,EBIT,7679115.17
+,EBITDA,8180941.61
+,EBT,3834201.1
+,uti_neta,10814328.55
+,costo_venta,-65058572.4
+,EBDA,11316154.99
+,ratio_liquidez,1.89158965
+,ratio_rapido,0.969123067
+,ratio_cash,0.170543437
+,deuda_activos,0.452050394
+,deuda_patrimonio,1.044743665
+,apalancamiento,2.311122121
+,cobertura_int,0.67207048
+,DEUDA_ESTR,101118586
+,CAP_EMPL,308589040.8
+,mg_ebitda,0.028326379
+,carga_impositiva,-48.60843626
+,carga_intereses,-0.06841984
+,mg_bruto,0.364070086
+,mg_neto,0.078875423
+,mg_operativo,0.023716358
+,ROA,0.012794113
+,ROE,0.027800103
+,ROCE,0.004622123
+,rotacion_trabajo,1.25207142
+,rotacion_fijos,0.231398967
+,rotacion_activos,0.16220658
+,rotacion_cxc,1.368538362
+,rotacion_inventarios,0.839251927
+,rotacion_cxp,3.081946023
+,dias_inventario,434.9111254
+,dias_cxc,266.7079054
+,dias_cxp,118.4316653
+,ciclo_operativo,701.6190308
+,ciclo_caja,583.1873655
+,anos_d_estr,17.90901268
+,Generacion_T_CAJA,5373784.727
+,DEUDA_ESTRUCTURAL,96239178.81
+,deuda_ebitda,92.02622288
+,ventas12M,-0.069458362
+,utinet12M,-4.558248783
+,EBITDA12M,1.152367374
+2019-12-01 00:00:00,PATRIMONIO,147723020.7
+,RESULTEX,0
+,ACTIVO_T,370350940
+,PASIVO_T,222627919.3
+,PATRIMONIO_T,147723020.7
+,Activo Biológico,78106541.77
+,Capital Social,69449428.29
+,Cuentas por Cobrar Comerciales,25087452.87
+,Cuentas por Cobrar a Relacionadas,752772.6
+,Cuentas por Pagar Comerciales,30582258.69
+,Cuentas por Pagar a Relacionadas,223892.62
+,Efectivo y Equivalente de Efectivo,3559731.63
+,Existencias,35917179.62
+,Gastos Pagados por Anticipado y Otros Activos,10164258.34
+,Impuestos por Recuperar,12172546.5
+,"Inmueble, Maquinaria y Equipo, Neto",136247168.5
+,Instrumento Financiero Derivados,561217.76
+,Instrumentos Financieros Derivados,0
+,Inversiónes Mobiliarias,46359453.53
+,Obligaciones Financieras,108764115.3
+,Otras Cuenta por Cobrar Largo Plazo,1023079.79
+,Otras Cuentas por Pagar,3877947.57
+,Otras Cuentas por Pagar Largo Plazo,17272768.16
+,Parte Corriente de Activo Biológico,20960754.77
+,Pasivo por Impuesto a la Renta Diferido,4645345.49
+,Porcion Corriente de Obligaciones Financieras,56700373.71
+,Reserva Legal,12032123.59
+,Resultados Acumulados,66241468.82
+,Sobregiros Bancarios,0
+,ACTIVO_CORR,108614696.3
+,ACTIVO_NCORR,261736243.6
+,PASIVO_CORR,91945690.35
+,PASIVO_NCORR,130682228.9
+,CxC,25840225.47
+,INVENTARIOS,56877934.39
+,CxP,34684098.88
+,CAPEX,16669005.98
+,ACT_FIJ,260713163.8
+,CASH,3559731.63
+,DEUDA_TOT,165464489
+,Cambios en el Valor Razonable de Activos Biológicos,2292658.99
+,Costo de Venta - NIC 41,-3084359.8
+,Costo de Ventas,-71176982.21
+,Depr. De Gastos de Administración,-518651.94
+,Depr. De Gastos de Venta,-29252.91
+,"Diferencia de Cambio, Neta",1343511
+,Gastos Financieros,-7283591.68
+,Gastos de Administración,-15224428.84
+,Gastos de Venta,-14724757.33
+,Impuesto a la Renta Corriente,-105904
+,Impuesto a la Renta Diferido,6980127.45
+,Ingresos Financieros,40294.54
+,"Instrumentos Financieros, Netos",616328.68
+,Otros Gastos,-3458577.7
+,Otros Gastos - NIC 41,-6848227.58
+,Otros Ingresos,3835827.48
+,Restitución de Derechos Arancelarios,2897194.48
+,Ventas,105301511.4
+,uti_bruta,36230022.89
+,EBIT,-738045.93
+,EBITDA,-190141.08
+,EBT,-6021503.39
+,uti_neta,852720.06
+,costo_venta,-74261342.01
+,EBDA,1400624.91
+,ratio_liquidez,1.181291868
+,ratio_rapido,0.562688275
+,ratio_cash,0.03871559
+,deuda_activos,0.446777559
+,deuda_patrimonio,1.12009955
+,apalancamiento,2.507063139
+,cobertura_int,0.874040584
+,DEUDA_ESTR,114013222.9
+,CAP_EMPL,278405249.6
+,mg_ebitda,0.037110319
+,carga_impositiva,7.461118449
+,carga_intereses,0.45054133
+,mg_bruto,0.370492409
+,mg_neto,0.108574326
+,mg_operativo,0.032298962
+,ROA,0.016500448
+,ROE,0.036211261
+,ROCE,0.006180006
+,rotacion_trabajo,1.433813413
+,rotacion_fijos,0.221357505
+,rotacion_activos,0.151973755
+,rotacion_cxc,1.109393296
+,rotacion_inventarios,0.884704789
+,rotacion_cxp,3.363761022
+,dias_inventario,412.5669993
+,dias_cxc,329.0086584
+,dias_cxp,108.5094921
+,ciclo_operativo,741.5756577
+,ciclo_caja,633.0661657
+,anos_d_estr,13.49875523
+,Generacion_T_CAJA,7004062.218
+,DEUDA_ESTRUCTURAL,94546121.52
+,deuda_ebitda,73.11093284
+,ventas12M,-0.228291288
+,utinet12M,-1.045587879
+,EBITDA12M,-0.967323924
+2020-01-01 00:00:00,PATRIMONIO,147723020.7
+,RESULTEX,6616322.38
+,ACTIVO_T,398126771.3
+,PASIVO_T,243787428.2
+,PATRIMONIO_T,154339343.1
+,Activo Biológico,71585643.08
+,Capital Social,69449428.29
+,Cuentas por Cobrar Comerciales,65260559.18
+,Cuentas por Cobrar a Relacionadas,692921.6
+,Cuentas por Pagar Comerciales,36297997.29
+,Cuentas por Pagar a Relacionadas,230599.96
+,Efectivo y Equivalente de Efectivo,12662891.92
+,Existencias,26784301.51
+,Gastos Pagados por Anticipado y Otros Activos,18814392.51
+,Impuestos por Recuperar,6831927.76
+,"Inmueble, Maquinaria y Equipo, Neto",135928650.2
+,Instrumento Financiero Derivados,615677.96
+,Instrumentos Financieros Derivados,0
+,Inversiónes Mobiliarias,46359453.53
+,Obligaciones Financieras,110108501.4
+,Otras Cuenta por Cobrar Largo Plazo,1026828.13
+,Otras Cuentas por Pagar,3727413.84
+,Otras Cuentas por Pagar Largo Plazo,25720669.8
+,Parte Corriente de Activo Biológico,12179201.82
+,Pasivo por Impuesto a la Renta Diferido,4645345.49
+,Porcion Corriente de Obligaciones Financieras,62441222.46
+,Reserva Legal,12032123.59
+,Resultados Acumulados,66241468.82
+,Sobregiros Bancarios,0
+,ACTIVO_CORR,143226196.3
+,ACTIVO_NCORR,254900575
+,PASIVO_CORR,103312911.5
+,PASIVO_NCORR,140474516.7
+,CxC,65953480.78
+,INVENTARIOS,38963503.33
+,CxP,40256011.09
+,CAPEX,39913284.79
+,ACT_FIJ,253873746.8
+,CASH,12662891.92
+,DEUDA_TOT,172549723.8
+,Cambios en el Valor Razonable de Activos Biológicos,0
+,Costo de Venta - NIC 41,-174136.19
+,Costo de Ventas,-28237297.34
+,Depr. De Gastos de Administración,-43465.87
+,Depr. De Gastos de Venta,-2731.45
+,"Diferencia de Cambio, Neta",-1448294.91
+,Gastos Financieros,-18534.28
+,Gastos de Administración,-1396715.68
+,Gastos de Venta,-3995062.57
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,0
+,Ingresos Financieros,11.56
+,"Instrumentos Financieros, Netos",-47523.23
+,Otros Gastos,-1164728.28
+,Otros Gastos - NIC 41,-6151401.24
+,Otros Ingresos,302850.38
+,Restitución de Derechos Arancelarios,17348.98
+,Ventas,48976002.5
+,uti_bruta,20581917.95
+,EBIT,8130663.24
+,EBITDA,8176860.56
+,EBT,6616322.38
+,uti_neta,6616322.38
+,costo_venta,-28411433.53
+,EBDA,6662519.7
+,ratio_liquidez,1.386333946
+,ratio_rapido,1.00919325
+,ratio_cash,0.122568339
+,deuda_activos,0.433403972
+,deuda_patrimonio,1.117989233
+,apalancamiento,2.579554657
+,cobertura_int,0.644213758
+,DEUDA_ESTR,100561231.9
+,CAP_EMPL,294813859.7
+,mg_ebitda,0.028492815
+,carga_impositiva,31.75416897
+,carga_intereses,0.128447714
+,mg_bruto,0.363772696
+,mg_neto,0.096667551
+,mg_operativo,0.023700286
+,ROA,0.014547011
+,ROE,0.032407699
+,ROCE,0.004499841
+,rotacion_trabajo,1.249426559
+,rotacion_fijos,0.224454568
+,rotacion_activos,0.150484948
+,rotacion_cxc,0.999538259
+,rotacion_inventarios,1.072500393
+,rotacion_cxp,0.86297316
+,dias_inventario,340.3262157
+,dias_cxc,365.1686134
+,dias_cxp,422.9563754
+,ciclo_operativo,705.4948291
+,ciclo_caja,282.5384537
+,anos_d_estr,14.62339906
+,Generacion_T_CAJA,6294104.125
+,DEUDA_ESTRUCTURAL,92041196.33
+,deuda_ebitda,94.2927203
+,ventas12M,0.068951205
+,utinet12M,-0.562904071
+,EBITDA12M,-0.435092753
+2020-02-01 00:00:00,PATRIMONIO,147723020.7
+,RESULTEX,7439003.73
+,ACTIVO_T,393351852
+,PASIVO_T,238189827.6
+,PATRIMONIO_T,155162024.4
+,Activo Biológico,73425410.15
+,Capital Social,69449428.29
+,Cuentas por Cobrar Comerciales,72444283.39
+,Cuentas por Cobrar a Relacionadas,692921.6
+,Cuentas por Pagar Comerciales,31235954.63
+,Cuentas por Pagar a Relacionadas,292819.57
+,Efectivo y Equivalente de Efectivo,12007368.21
+,Existencias,9494943.16
+,Gastos Pagados por Anticipado y Otros Activos,19491301.92
+,Impuestos por Recuperar,6831927.76
+,"Inmueble, Maquinaria y Equipo, Neto",136023590.3
+,Instrumento Financiero Derivados,632700.13
+,Instrumentos Financieros Derivados,0
+,Inversiónes Mobiliarias,46359453.53
+,Obligaciones Financieras,113157962.5
+,Otras Cuenta por Cobrar Largo Plazo,1033778.18
+,Otras Cuentas por Pagar,5664851.88
+,Otras Cuentas por Pagar Largo Plazo,26011734.98
+,Parte Corriente de Activo Biológico,15546873.83
+,Pasivo por Impuesto a la Renta Diferido,4645345.49
+,Porcion Corriente de Obligaciones Financieras,56409604.59
+,Reserva Legal,12032123.59
+,Resultados Acumulados,66241468.82
+,Sobregiros Bancarios,138853.79
+,ACTIVO_CORR,136509619.9
+,ACTIVO_NCORR,256842232.2
+,PASIVO_CORR,94374784.59
+,PASIVO_NCORR,143815043
+,CxC,73137204.99
+,INVENTARIOS,25041816.99
+,CxP,37193626.08
+,CAPEX,42134835.28
+,ACT_FIJ,255808454
+,CASH,12007368.21
+,DEUDA_TOT,169706420.9
+,Cambios en el Valor Razonable de Activos Biológicos,0
+,Costo de Venta - NIC 41,-348272.38
+,Costo de Ventas,-46222408.87
+,Depr. De Gastos de Administración,-88244.11
+,Depr. De Gastos de Venta,-5462.9
+,"Diferencia de Cambio, Neta",-4548175.17
+,Gastos Financieros,-397544.93
+,Gastos de Administración,-2469614.67
+,Gastos de Venta,-8601773.08
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,0
+,Ingresos Financieros,56.63
+,"Instrumentos Financieros, Netos",-47523.23
+,Otros Gastos,-1170248.19
+,Otros Gastos - NIC 41,-6151401.24
+,Otros Ingresos,336407.04
+,Restitución de Derechos Arancelarios,17348.98
+,Ventas,77135859.86
+,uti_bruta,30582527.59
+,EBIT,12432190.44
+,EBITDA,12525897.45
+,EBT,7439003.74
+,uti_neta,7439003.74
+,costo_venta,-46570681.25
+,EBDA,7532710.75
+,ratio_liquidez,1.44646285
+,ratio_rapido,1.181118488
+,ratio_cash,0.127230682
+,deuda_activos,0.43143669
+,deuda_patrimonio,1.093736831
+,apalancamiento,2.535103892
+,cobertura_int,0.876760367
+,DEUDA_ESTR,101680207.7
+,CAP_EMPL,298977067.4
+,mg_ebitda,0.035759657
+,carga_impositiva,46.58295353
+,carga_intereses,0.062930529
+,mg_bruto,0.363492349
+,mg_neto,0.091400115
+,mg_operativo,0.031178724
+,ROA,0.015282033
+,ROE,0.033185108
+,ROCE,0.006415345
+,rotacion_trabajo,1.775325285
+,rotacion_fijos,0.233322906
+,rotacion_activos,0.167199279
+,rotacion_cxc,1.317278479
+,rotacion_inventarios,1.586909053
+,rotacion_cxp,1.665858649
+,dias_inventario,230.0068799
+,dias_cxc,277.0864369
+,dias_cxp,219.106225
+,ciclo_operativo,507.0933168
+,ciclo_caja,287.9870918
+,anos_d_estr,16.07082804
+,Generacion_T_CAJA,6232840.155
+,DEUDA_ESTRUCTURAL,100166902.3
+,deuda_ebitda,68.17494013
+,ventas12M,0.823529092
+,utinet12M,-0.090167438
+,EBITDA12M,1.133671566
+2020-03-01 00:00:00,PATRIMONIO,147371949.2
+,RESULTEX,8024757.13
+,ACTIVO_T,354292568.7
+,PASIVO_T,198895862.5
+,PATRIMONIO_T,155396706.3
+,Activo Biológico,74508463.23
+,Capital Social,69449428.29
+,Cuentas por Cobrar Comerciales,22995985.4
+,Cuentas por Cobrar a Relacionadas,1000522.68
+,Cuentas por Pagar Comerciales,18901187.1
+,Cuentas por Pagar a Relacionadas,237242.46
+,Efectivo y Equivalente de Efectivo,16474042.97
+,Existencias,10931914.42
+,Gastos Pagados por Anticipado y Otros Activos,454702.28
+,Impuestos por Recuperar,7566325.22
+,"Inmueble, Maquinaria y Equipo, Neto",147520275
+,Instrumento Financiero Derivados,676580.71
+,Instrumentos Financieros Derivados,0
+,Inversiónes Mobiliarias,46359453.53
+,Obligaciones Financieras,112764483.7
+,Otras Cuenta por Cobrar Largo Plazo,763897.74
+,Otras Cuentas por Pagar,221528.78
+,Otras Cuentas por Pagar Largo Plazo,25955024.97
+,Parte Corriente de Activo Biológico,25716986.31
+,Pasivo por Impuesto a la Renta Diferido,1391475.46
+,Porcion Corriente de Obligaciones Financieras,38748339.3
+,Reserva Legal,12183375.59
+,Resultados Acumulados,65739145.27
+,Sobregiros Bancarios,0
+,ACTIVO_CORR,85140479.28
+,ACTIVO_NCORR,269152089.5
+,PASIVO_CORR,58784878.35
+,PASIVO_NCORR,140110984.1
+,CxC,23996508.08
+,INVENTARIOS,36648900.73
+,CxP,19359958.34
+,CAPEX,26355600.93
+,ACT_FIJ,268388191.7
+,CASH,16474042.97
+,DEUDA_TOT,151512823
+,Cambios en el Valor Razonable de Activos Biológicos,5714263.03
+,Costo de Venta - NIC 41,-522408.57
+,Costo de Ventas,-46522415.32
+,Depr. De Gastos de Administración,-132621.84
+,Depr. De Gastos de Venta,-8194.35
+,"Diferencia de Cambio, Neta",-4318755.33
+,Gastos Financieros,-2702379.3
+,Gastos de Administración,-4371842.89
+,Gastos de Venta,-9301695.13
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,3253870.01
+,Ingresos Financieros,84.99
+,"Instrumentos Financieros, Netos",-93603.87
+,Otros Gastos,-1170248.19
+,Otros Gastos - NIC 41,-6151401.24
+,Otros Ingresos,770338.13
+,Restitución de Derechos Arancelarios,302726.15
+,Ventas,73279040.85
+,uti_bruta,32251206.14
+,EBIT,11885540.63
+,EBITDA,12026356.82
+,EBT,4770887.12
+,uti_neta,8024757.13
+,costo_venta,-47044823.89
+,EBDA,8165573.32
+,ratio_liquidez,1.448339806
+,ratio_rapido,0.82489885
+,ratio_cash,0.280242869
+,deuda_activos,0.427648888
+,deuda_patrimonio,0.975006656
+,apalancamiento,2.279923283
+,cobertura_int,1.313877849
+,DEUDA_ESTR,113755383.2
+,CAP_EMPL,295507690.4
+,mg_ebitda,0.050863176
+,carga_impositiva,9.571484227
+,carga_intereses,0.203582616
+,mg_bruto,0.373057479
+,mg_neto,0.090554474
+,mg_operativo,0.046471847
+,ROA,0.01829268
+,ROE,0.040882772
+,ROCE,0.011051087
+,rotacion_trabajo,2.798077091
+,rotacion_fijos,0.260457241
+,rotacion_activos,0.202007466
+,rotacion_cxc,3.583856406
+,rotacion_inventarios,1.399189332
+,rotacion_cxp,4.145850564
+,dias_inventario,260.8653395
+,dias_cxc,101.8455983
+,dias_cxp,88.03983509
+,ciclo_operativo,362.7109378
+,ciclo_caja,274.6711028
+,anos_d_estr,17.19735142
+,Generacion_T_CAJA,6436481.317
+,DEUDA_ESTRUCTURAL,110690431.1
+,deuda_ebitda,42.56634393
+,ventas12M,0.876804076
+,utinet12M,0.437189235
+,EBITDA12M,-9.101464088
+2020-04-01 00:00:00,PATRIMONIO,147371949.2
+,RESULTEX,4235917.69
+,ACTIVO_T,360382794.2
+,PASIVO_T,208774927.4
+,PATRIMONIO_T,151607866.8
+,Activo Biológico,74497565.31
+,Capital Social,69449428.29
+,Cuentas por Cobrar Comerciales,11247490.05
+,Cuentas por Cobrar a Relacionadas,1184224.2
+,Cuentas por Pagar Comerciales,19243543.84
+,Cuentas por Pagar a Relacionadas,1997.73
+,Efectivo y Equivalente de Efectivo,23151144.95
+,Existencias,11855697.95
+,Gastos Pagados por Anticipado y Otros Activos,1264436.9
+,Impuestos por Recuperar,7566325.22
+,"Inmueble, Maquinaria y Equipo, Neto",156859689.9
+,Instrumento Financiero Derivados,676580.71
+,Instrumentos Financieros Derivados,0
+,Inversiónes Mobiliarias,46359453.53
+,Obligaciones Financieras,112764483.7
+,Otras Cuenta por Cobrar Largo Plazo,764522.47
+,Otras Cuentas por Pagar,7505759.42
+,Otras Cuentas por Pagar Largo Plazo,25825658.4
+,Parte Corriente de Activo Biológico,25632243.72
+,Pasivo por Impuesto a la Renta Diferido,1391475.46
+,Porcion Corriente de Obligaciones Financieras,41365428.16
+,Reserva Legal,12183375.59
+,Resultados Acumulados,65739145.27
+,Sobregiros Bancarios,0
+,ACTIVO_CORR,81901562.99
+,ACTIVO_NCORR,278481231.2
+,PASIVO_CORR,68793309.86
+,PASIVO_NCORR,139981617.5
+,CxC,12431714.25
+,INVENTARIOS,37487941.67
+,CxP,26751300.99
+,CAPEX,13108253.13
+,ACT_FIJ,277716708.8
+,CASH,23151144.95
+,DEUDA_TOT,154129911.8
+,Cambios en el Valor Razonable de Activos Biológicos,5714263.03
+,Costo de Venta - NIC 41,-696544.76
+,Costo de Ventas,-46691095.82
+,Depr. De Gastos de Administración,-181356.99
+,Depr. De Gastos de Venta,-20272.24
+,"Diferencia de Cambio, Neta",-1591381.57
+,Gastos Financieros,-3003104.66
+,Gastos de Administración,-5663162.76
+,Gastos de Venta,-9982346.43
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,3253870.01
+,Ingresos Financieros,111.05
+,"Instrumentos Financieros, Netos",-93603.87
+,Otros Gastos,-1174846.64
+,Otros Gastos - NIC 41,-6157700.71
+,Otros Ingresos,1196469.45
+,Restitución de Derechos Arancelarios,962426.3
+,Ventas,74588253.83
+,uti_bruta,33877302.58
+,EBIT,11894086.26
+,EBITDA,12095715.49
+,EBT,7206107.21
+,uti_neta,10459977.22
+,costo_venta,-47387640.58
+,EBDA,10661606.45
+,ratio_liquidez,1.190545464
+,ratio_rapido,0.645609601
+,ratio_cash,0.336531924
+,deuda_activos,0.42768388
+,deuda_patrimonio,1.016635317
+,apalancamiento,2.377071861
+,cobertura_int,1.777285006
+,DEUDA_ESTR,126873364.4
+,CAP_EMPL,291589484.4
+,mg_ebitda,0.066656312
+,carga_impositiva,4.525396693
+,carga_intereses,0.333406955
+,mg_bruto,0.383305216
+,mg_neto,0.094186818
+,mg_operativo,0.062425038
+,ROA,0.019005432
+,ROE,0.044407768
+,ROCE,0.014977184
+,rotacion_trabajo,2.569342392
+,rotacion_fijos,0.26520005
+,rotacion_activos,0.201784417
+,rotacion_cxc,5.376457934
+,rotacion_inventarios,1.257184039
+,rotacion_cxp,2.752185964
+,dias_inventario,290.3313984
+,dias_cxc,67.88856241
+,dias_cxp,132.6218522
+,ciclo_operativo,358.2199608
+,ciclo_caja,225.5981086
+,anos_d_estr,16.84497973
+,Generacion_T_CAJA,6957316.179
+,DEUDA_ESTRUCTURAL,117195850
+,deuda_ebitda,33.58150159
+,ventas12M,0.874814168
+,utinet12M,1.474550908
+,EBITDA12M,-4.937669679
+2020-05-01 00:00:00,PATRIMONIO,147371949.2
+,RESULTEX,4680523.24
+,ACTIVO_T,374522985.1
+,PASIVO_T,222470512.7
+,PATRIMONIO_T,152052472.4
+,Activo Biológico,76863961.13
+,Capital Social,69449428.29
+,Cuentas por Cobrar Comerciales,4885111.97
+,Cuentas por Cobrar a Relacionadas,1037259.27
+,Cuentas por Pagar Comerciales,17117451.2
+,Cuentas por Pagar a Relacionadas,17441.18
+,Efectivo y Equivalente de Efectivo,32081811.72
+,Existencias,13770539.77
+,Gastos Pagados por Anticipado y Otros Activos,733222.06
+,Impuestos por Recuperar,9353943.95
+,"Inmueble, Maquinaria y Equipo, Neto",157361057.7
+,Instrumento Financiero Derivados,130586.02
+,Instrumentos Financieros Derivados,0
+,Inversiónes Mobiliarias,46359453.53
+,Obligaciones Financieras,122600534.2
+,Otras Cuenta por Cobrar Largo Plazo,764522.47
+,Otras Cuentas por Pagar,7223044.18
+,Otras Cuentas por Pagar Largo Plazo,25967071.38
+,Parte Corriente de Activo Biológico,31312101.58
+,Pasivo por Impuesto a la Renta Diferido,1391475.46
+,Porcion Corriente de Obligaciones Financieras,48022909.16
+,Reserva Legal,12183375.59
+,Resultados Acumulados,65739145.27
+,Sobregiros Bancarios,0
+,ACTIVO_CORR,93173990.32
+,ACTIVO_NCORR,281348994.8
+,PASIVO_CORR,72511431.74
+,PASIVO_NCORR,149959081
+,CxC,5922371.24
+,INVENTARIOS,45082641.35
+,CxP,24357936.56
+,CAPEX,20662558.58
+,ACT_FIJ,280584472.3
+,CASH,32081811.72
+,DEUDA_TOT,170623443.3
+,Cambios en el Valor Razonable de Activos Biológicos,5714263.03
+,Costo de Venta - NIC 41,-870680.95
+,Costo de Ventas,-47304455.74
+,Depr. De Gastos de Administración,-230671.2
+,Depr. De Gastos de Venta,-32350.13
+,"Diferencia de Cambio, Neta",-4293177.92
+,Gastos Financieros,-3593353.68
+,Gastos de Administración,-7091537.83
+,Gastos de Venta,-10094367.4
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,3253870.01
+,Ingresos Financieros,1731.66
+,"Instrumentos Financieros, Netos",451407.13
+,Otros Gastos,-1175716.33
+,Otros Gastos - NIC 41,-6157700.71
+,Otros Ingresos,1210066.95
+,Restitución de Derechos Arancelarios,1618399.9
+,Ventas,73274796.45
+,uti_bruta,32432322.69
+,EBIT,8860046.04
+,EBITDA,9123067.37
+,EBT,1426653.23
+,uti_neta,4680523.24
+,costo_venta,-48175136.69
+,EBDA,4943544.57
+,ratio_liquidez,1.284955876
+,ratio_rapido,0.663224375
+,ratio_cash,0.442437985
+,deuda_activos,0.455575359
+,deuda_patrimonio,1.122135278
+,apalancamiento,2.463116707
+,cobertura_int,2.101410021
+,DEUDA_ESTR,129296522.4
+,CAP_EMPL,302011553.4
+,mg_ebitda,0.0787583
+,carga_impositiva,3.373038863
+,carga_intereses,0.374929229
+,mg_bruto,0.391457311
+,mg_neto,0.094403298
+,mg_operativo,0.074647716
+,ROA,0.019475174
+,ROE,0.045664733
+,ROCE,0.018250913
+,rotacion_trabajo,2.332221711
+,rotacion_fijos,0.273709306
+,rotacion_activos,0.206297596
+,rotacion_cxc,6.704652612
+,rotacion_inventarios,1.142211369
+,rotacion_cxp,3.681970283
+,dias_inventario,319.5555654
+,dias_cxc,54.43980787
+,dias_cxp,99.13170719
+,ciclo_operativo,373.9953733
+,ciclo_caja,274.8636661
+,anos_d_estr,16.1803832
+,Generacion_T_CAJA,7233101.931
+,DEUDA_ESTRUCTURAL,117034361
+,deuda_ebitda,28.47229018
+,ventas12M,0.80898115
+,utinet12M,2.335103001
+,EBITDA12M,-3.449920679
+2020-06-01 00:00:00,PATRIMONIO,147371949.2
+,RESULTEX,-1004882.95
+,ACTIVO_T,375373519.4
+,PASIVO_T,229006453.2
+,PATRIMONIO_T,146367066.2
+,Activo Biológico,77186390.66
+,Capital Social,69449428.29
+,Cuentas por Cobrar Comerciales,6611876.59
+,Cuentas por Cobrar a Relacionadas,870715.68
+,Cuentas por Pagar Comerciales,15837301.59
+,Cuentas por Pagar a Relacionadas,119174.16
+,Efectivo y Equivalente de Efectivo,25581428.81
+,Existencias,16372096.78
+,Gastos Pagados por Anticipado y Otros Activos,871871.66
+,Impuestos por Recuperar,10256998.76
+,"Inmueble, Maquinaria y Equipo, Neto",158203609.3
+,Instrumento Financiero Derivados,152867.62
+,Instrumentos Financieros Derivados,0
+,Inversiónes Mobiliarias,46359453.53
+,Obligaciones Financieras,125486045.8
+,Otras Cuenta por Cobrar Largo Plazo,764522.47
+,Otras Cuentas por Pagar,7908580
+,Otras Cuentas por Pagar Largo Plazo,26039859.96
+,Parte Corriente de Activo Biológico,32294555.24
+,Pasivo por Impuesto a la Renta Diferido,1391475.46
+,Porcion Corriente de Obligaciones Financieras,52071148.66
+,Reserva Legal,12183375.59
+,Resultados Acumulados,65739145.27
+,Sobregiros Bancarios,0
+,ACTIVO_CORR,92859543.52
+,ACTIVO_NCORR,282513975.9
+,PASIVO_CORR,76089072.03
+,PASIVO_NCORR,152917381.2
+,CxC,7482592.27
+,INVENTARIOS,48666652.02
+,CxP,23865055.75
+,CAPEX,16770471.49
+,ACT_FIJ,281749453.5
+,CASH,25581428.81
+,DEUDA_TOT,177557194.5
+,Cambios en el Valor Razonable de Activos Biológicos,5714263.03
+,Costo de Venta - NIC 41,-1044817.14
+,Costo de Ventas,-49855032.3
+,Depr. De Gastos de Administración,-275905.46
+,Depr. De Gastos de Venta,-34006.33
+,"Diferencia de Cambio, Neta",-8180406.18
+,Gastos Financieros,-3782834.12
+,Gastos de Administración,-8511689.99
+,Gastos de Venta,-10498651.67
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,3253870.01
+,Ingresos Financieros,6382.36
+,"Instrumentos Financieros, Netos",432471.94
+,Otros Gastos,-1251308.16
+,Otros Gastos - NIC 41,-6157700.71
+,Otros Ingresos,1124976.2
+,Restitución de Derechos Arancelarios,2342151.34
+,Ventas,75713354.23
+,uti_bruta,32869919.16
+,EBIT,7265633.04
+,EBITDA,7575544.83
+,EBT,-4258752.96
+,uti_neta,-1004882.95
+,costo_venta,-50899849.44
+,EBDA,-694971.16
+,ratio_liquidez,1.220405783
+,ratio_rapido,0.580804711
+,ratio_cash,0.336203717
+,deuda_activos,0.473014705
+,deuda_patrimonio,1.213095262
+,apalancamiento,2.564603699
+,cobertura_int,2.335127316
+,DEUDA_ESTR,136146909.7
+,CAP_EMPL,299284447.4
+,mg_ebitda,0.088433967
+,carga_impositiva,3.412094216
+,carga_intereses,0.294922152
+,mg_bruto,0.398924132
+,mg_neto,0.08495865
+,mg_operativo,0.084426579
+,ROA,0.018089744
+,ROE,0.043217914
+,ROCE,0.021413502
+,rotacion_trabajo,2.560676862
+,rotacion_fijos,0.282117253
+,rotacion_activos,0.212924098
+,rotacion_cxc,5.110190028
+,rotacion_inventarios,1.108017613
+,rotacion_cxp,3.53038754
+,dias_inventario,329.417146
+,dias_cxc,71.42591528
+,dias_cxp,103.388083
+,ciclo_operativo,400.8430613
+,ciclo_caja,297.4549783
+,anos_d_estr,17.83082324
+,Generacion_T_CAJA,6763416.713
+,DEUDA_ESTRUCTURAL,120597287.9
+,deuda_ebitda,24.68820075
+,ventas12M,0.701049778
+,utinet12M,-1.215387692
+,EBITDA12M,-3.042580541
+2020-07-01 00:00:00,PATRIMONIO,147371949.2
+,RESULTEX,-816482.01
+,ACTIVO_T,387407942.4
+,PASIVO_T,240852475.2
+,PATRIMONIO_T,146555467.1
+,Activo Biológico,79013083.85
+,Capital Social,69449428.29
+,Cuentas por Cobrar Comerciales,13870726.53
+,Cuentas por Cobrar a Relacionadas,2023163.98
+,Cuentas por Pagar Comerciales,23260239.76
+,Cuentas por Pagar a Relacionadas,513913.99
+,Efectivo y Equivalente de Efectivo,19353461.58
+,Existencias,17721026.97
+,Gastos Pagados por Anticipado y Otros Activos,765632.14
+,Impuestos por Recuperar,11652722.38
+,"Inmueble, Maquinaria y Equipo, Neto",160810790.3
+,Instrumento Financiero Derivados,152346.78
+,Instrumentos Financieros Derivados,0
+,Inversiónes Mobiliarias,46359453.53
+,Obligaciones Financieras,137728566.9
+,Otras Cuenta por Cobrar Largo Plazo,554522.39
+,Otras Cuentas por Pagar,7722799.22
+,Otras Cuentas por Pagar Largo Plazo,26063019.45
+,Parte Corriente de Activo Biológico,35283358.76
+,Pasivo por Impuesto a la Renta Diferido,1391475.46
+,Porcion Corriente de Obligaciones Financieras,44020113.65
+,Reserva Legal,12183375.59
+,Resultados Acumulados,65739145.27
+,Sobregiros Bancarios,0
+,ACTIVO_CORR,100670092.3
+,ACTIVO_NCORR,286737850
+,PASIVO_CORR,75669413.4
+,PASIVO_NCORR,165183061.8
+,CxC,15893890.51
+,INVENTARIOS,53004385.73
+,CxP,31496952.97
+,CAPEX,25000678.94
+,ACT_FIJ,286183327.7
+,CASH,19353461.58
+,DEUDA_TOT,181748680.6
+,Cambios en el Valor Razonable de Activos Biológicos,5714263.03
+,Costo de Venta - NIC 41,-1218284.37
+,Costo de Ventas,-57081296.25
+,Depr. De Gastos de Administración,-322234.22
+,Depr. De Gastos de Venta,-35535.8
+,"Diferencia de Cambio, Neta",-7852988.37
+,Gastos Financieros,-4003873.33
+,Gastos de Administración,-9813939.66
+,Gastos de Venta,-11830205.64
+,Impuesto a la Renta Corriente,0
+,Impuesto a la Renta Diferido,3253870.01
+,Ingresos Financieros,6414.95
+,"Instrumentos Financieros, Netos",432471.94
+,Otros Gastos,-1282685.88
+,Otros Gastos - NIC 41,-6225934.17
+,Otros Ingresos,1993745.43
+,Restitución de Derechos Arancelarios,2555255.02
+,Ventas,84894475.3
+,uti_bruta,34864412.73
+,EBIT,7347622.79
+,EBITDA,7705392.81
+,EBT,-4070352.02
+,uti_neta,-816482.01
+,costo_venta,-58299580.62
+,EBDA,-458711.99
+,ratio_liquidez,1.330393455
+,ratio_rapido,0.629920393
+,ratio_cash,0.255763336
+,deuda_activos,0.469140306
+,deuda_patrimonio,1.240135794
+,apalancamiento,2.643421975
+,cobertura_int,2.496807329
+,DEUDA_ESTR,140182382.9
+,CAP_EMPL,311738529
+,mg_ebitda,0.096101308
+,carga_impositiva,3.557165355
+,carga_intereses,0.230447534
+,mg_bruto,0.404625021
+,mg_neto,0.0755579
+,mg_operativo,0.092173009
+,ROA,0.016131983
+,ROE,0.039292996
+,ROCE,0.023372048
+,rotacion_trabajo,2.16903482
+,rotacion_fijos,0.287630062
+,rotacion_activos,0.213504909
+,rotacion_cxc,3.176841163
+,rotacion_inventarios,1.095079089
+,rotacion_cxp,3.352227492
+,dias_inventario,333.3092593
+,dias_cxc,114.8940036
+,dias_cxp,108.8828252
+,ciclo_operativo,448.2032629
+,ciclo_caja,339.3204378
+,anos_d_estr,19.62300701
+,Generacion_T_CAJA,6227179.578
+,DEUDA_ESTRUCTURAL,122195988.5
+,deuda_ebitda,22.58026483
+,ventas12M,0.488094094
+,utinet12M,-1.14436702
+,EBITDA12M,-4.920795027
